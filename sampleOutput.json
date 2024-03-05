@@ -1,0 +1,1508 @@
+{
+    "status": "ok",
+    "totalResults": 1118,
+
+    "articles": [
+    
+        {
+        
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Mat Smith",
+            "title": "The Morning After: Switch emulator creators settle lawsuit with Nintendo for $2.4 million",
+            "description": "The creator of a popular Nintendo Switch emulator, Yuzu, appears to have agreed to settle Nintendo’s lawsuit against it, less than a week since the games company accused the emulator’s creator of “piracy at a colossal scale.”\nA joint final judgment and perman…",
+            "url": "https://www.engadget.com/the-morning-after-switch-emulator-creators-settle-lawsuit-with-nintendo-for-24-million-121645766.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/R1xesECRrUunyPlv3r2_Ig--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03NzY-/https://s.yimg.com/os/creatr-uploaded-images/2022-02/71183210-8a84-11ec-bffb-20a6a91b2be9",
+            "publishedAt": "2024-03-05T12:16:45Z",
+            "content": "The creator of a popular Nintendo Switch emulator, Yuzu, appears to have agreed to settle Nintendos lawsuit against it, less than a week since the games company accused the emulators creator of pirac… [+3032 chars]"
+        },
+    
+        {
+        
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Nathan Edwards",
+            "title": "Our favorite smart home automations",
+            "description": "The perfect morning shower routine, a toasty bed on a cool day, magic light switches, and a washer that yells at you until you switch the laundry.",
+            "url": "https://www.theverge.com/24087581/smart-home-automations-verge-favorites",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/o6168swY0v8LWTp1c1vcEKSMoek=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/25306324/246980_SMART_HOME_WEEK_AUTOMATIONS_AAstorgano_STILL0.jpg",
+            "publishedAt": "2024-03-05T13:44:22Z",
+            "content": "Illustration by Adrián Astorgano\r\n\n \n\n \n\r\n\n \r\n\n\r\n\n\n\n\nfunction LedeVideo(props) {\nreturn (\n\n\n\r\n\n\r\n\n{props.credit}\n\r\n\n)\n}\n\n\n\nconst containers = document.querySelectorAll(\".w-full figure.w-full\");\n cont… [+10855 chars]"
+        },
+    
+        {
+        
+            "source": {
+                "id": null,
+                "name": "Android Central"
+            },
+            "author": "nicholas.sutrich@futurenet.com (Nicholas Sutrich)",
+            "title": "Hands-on: The Nothing Phone 2a is the best new affordable phone you can't buy",
+            "description": "The Nothing Phone 2a is the company's first budget-priced phone, and it leaves nothing to be desired. Unless you live in the U.S., that is.",
+            "url": "https://www.androidcentral.com/phones/nothing-phone-2a-first-impressions",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/xPZjyhpH6MpsdoCq3HvgcN-1200-80.jpg",
+            "publishedAt": "2024-03-05T12:30:55Z",
+            "content": "Last week, Nothing unveiled the design of the Nothing Phone 2a at MWC Barcelona 2024, showcasing the redesigned glyph interface for the first time. Now that I've had the phone in my hand for a few da… [+4927 chars]"
+        },
+    
+        {
+        
+            "source": {
+                "id": null,
+                "name": "MacRumors"
+            },
+            "author": "Tim Hardwick",
+            "title": "iPhone Sales in China Declined 24% in First Six Weeks of 2024",
+            "description": "Apple's iPhone sales in China saw a significant decline in the first six weeks of this year that saw it lose the title of China's best-selling smartphone maker to a local vendor.\n\n\n\n\n\n‌iPhone‌ sales dropped by 24 percent, pushing Apple down to fourth among sm…",
+            "url": "https://www.macrumors.com/2024/03/05/china-iphone-sales-slump-early-2024/",
+            "urlToImage": "https://images.macrumors.com/t/fOMbEY-dBYf5TOTtu79QBT6B7uk=/1920x/article-new/2024/03/China-Weekly-Smartphone-Unit-Sales-Share-Growth-in-First-6-Weeks-of-Year-2024-vs-2023.jpg",
+            "publishedAt": "2024-03-05T08:53:14Z",
+            "content": "Apple's iPhone sales in China saw a significant decline in the first six weeks of this year that saw it lose the title of China's best-selling smartphone maker to a local vendor.\r\n‌iPhone‌ sales drop… [+1775 chars]"
+        },
+    
+        {
+        
+            "source": {
+                "id": null,
+                "name": "MacRumors"
+            },
+            "author": "Tim Hardwick",
+            "title": "First Benchmark Result Surfaces for MacBook Air With M3 Chip",
+            "description": "An early benchmark result for the new MacBook Air has surfaced, providing a closer look at the M3 chip's performance in Apple's latest laptops.\n\n\n\n\n\nIn a Geekbench 5 result spotted by MySmartPrice, the MacBook Air with the M3 chip and 16GB of unified memory a…",
+            "url": "https://www.macrumors.com/2024/03/05/first-benchmark-result-macbook-air-m3/",
+            "urlToImage": "https://images.macrumors.com/t/NL0pn18QhpvG2XW9EkdmcMB_fUs=/2500x/article-new/2024/03/macbook-air-new-blue.jpg",
+            "publishedAt": "2024-03-05T09:53:04Z",
+            "content": "An early benchmark result for the new MacBook Air has surfaced, providing a closer look at the M3 chip's performance in Apple's latest laptops.\r\nIn a Geekbench 5 result spotted by MySmartPrice, the M… [+1128 chars]"
+        },
+    
+        {
+        
+            "source": {
+                "id": null,
+                "name": "NPR"
+            },
+            "author": null,
+            "title": "The EU fines Apple nearly $2 billion for hindering music streaming competition",
+            "description": "Apple muzzled streaming services from telling users about payment options on their websites, which avoids a 30% fee charged when people pay through apps downloaded with the iOS App Store, the EU said.",
+            "url": "https://www.npr.org/2024/03/04/1235887120/apple-music-spotify-fine-european-union",
+            "urlToImage": "https://media.npr.org/assets/img/2024/03/04/ap24064461830042_wide-54d8b60da7420f316f3aa63464bee57a390f65e0-s1400-c100.jpg",
+            "publishedAt": "2024-03-05T01:08:41Z",
+            "content": "EU Commission vice president Margrethe Vestager addresses the media about Apple Music streaming services at EU headquarters in Brussels on Monday.\r\nGeert Vanden Wijngaert/AP\r\nLONDON The European Unio… [+5690 chars]"
+        },
+    
+        {
+        
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Shubhangi Goel",
+            "title": "Apple has lost its crown as China's best-selling smartphone maker: report",
+            "description": "The US tech giant has lost its top spot as China's bestselling smartphone to Vivo, a Chinese tech multinational, per Counterpoint Research.",
+            "url": "https://www.businessinsider.com/apple-iphone-sales-china-down-huawei-vivo-smartphone-2024-3",
+            "urlToImage": "https://i.insider.com/65e6c4bb6080194819fc717d?width=1200&format=jpeg",
+            "publishedAt": "2024-03-05T08:02:25Z",
+            "content": "Apple iPhone 15 family of devicesApple\r\n<ul><li> iPhone sales are down 24% in China from last year, according to Counterpoint Research.</li><li>In 2023, the iPhone became the best-selling smartphone … [+1766 chars]"
+        },
+    
+        {
+        
+            "source": {
+                "id": null,
+                "name": "Hipertextual"
+            },
+            "author": "Rubén Chicharro",
+            "title": "Todos los cambios que Google hará en Android y su buscador para cumplir con la Ley de Mercados Digitales",
+            "description": "Google ha anunciado todos los cambios que llegarán a Android, Chrome y el resto de sus servicios, con el objetivo de cumplir con la Ley de Mercados Digitales de la Unión Europea, que entrará en vigor este mismo 6 de marzo. La compañía ha confirmado que ofrece…",
+            "url": "http://hipertextual.com/2024/03/todos-los-cambios-que-google-hara-en-android-para-cumplir-con-la-mda",
+            "urlToImage": "https://imgs.hipertextual.com/wp-content/uploads/2023/06/Google-logo-scaled.jpg",
+            "publishedAt": "2024-03-05T11:31:11Z",
+            "content": "Google ha anunciado todos los cambios que llegarán a Android, Chrome y el resto de sus servicios, con el objetivo de cumplir con la Ley de Mercados Digitales de la Unión Europea, que entrará en vigor… [+2713 chars]"
+        },
+    
+        {
+        
+            "source": {
+                "id": null,
+                "name": "Hipertextual"
+            },
+            "author": "Aglaia Berlutti",
+            "title": "5 películas que ganaron los Premios Óscar que seguro no recuerdas",
+            "description": "Hay un motivo por el que los Premios Óscar de la Academia de Artes y Ciencias Cinematográficas de Hollywood tienen especial relevancia. Y ese es, reconocer el valor del trabajo en todos los aspectos relacionados con la industria del cine. Un homenaje bien gan…",
+            "url": "http://hipertextual.com/2024/03/5-peliculas-que-ganaron-los-premios-oscar-que-seguro-no-recuerdas",
+            "urlToImage": "https://imgs.hipertextual.com/wp-content/uploads/2023/01/Oscar-Hipertextual.png",
+            "publishedAt": "2024-03-05T10:17:26Z",
+            "content": "Hay un motivo por el que los Premios Óscar de la Academia de Artes y Ciencias Cinematográficas de Hollywood tienen especial relevancia. Y ese es, reconocer el valor del trabajo en todos los aspectos … [+5887 chars]"
+        },
+    
+        {
+        
+            "source": {
+                "id": "time",
+                "name": "Time"
+            },
+            "author": "Olivia B. Waxman",
+            "title": "Where to Watch the 2024 Oscar Nominees for Best Picture",
+            "description": "Here's where to watch or stream all 10 Oscar nominees for Best Picture in 2024.",
+            "url": "https://time.com/6727253/watch-stream-oscars-best-picture/",
+            "urlToImage": "https://api.time.com/wp-content/uploads/2024/02/barbie-oppenheimer-movie-theater.jpg?quality=85",
+            "publishedAt": "2024-03-05T12:01:00Z",
+            "content": "Barbie and Oppenheimer may be the most talked-about movies of 2023and among the highest-grossingbut there are still eight other films vying for Best Picture at the Academy Awards, which this year tak… [+7108 chars]"
+        },
+    
+        {
+        
+            "source": {
+                "id": null,
+                "name": "Xataka.com"
+            },
+            "author": "Javier Lacort",
+            "title": "Apple quiso ser juez y parte en el mercado de la música en streaming. Ahora le va a costar 1.800 millones de euros",
+            "description": "Se venía especulando con una sanción de 500 millones de euros, pero la Comisión Europea finalmente ha ido mucho más allá y ha dejado la cantidad en algo más de 1.800 millones de euros. Esa es la cantidad de la sanción a Apple por la demanda de Spotify.\n<!-- B…",
+            "url": "https://www.xataka.com/streaming/apple-quiso-ser-juez-parte-mercado-musica-streaming-ahora-le-va-a-costar-1-800-millones-euros",
+            "urlToImage": "https://i.blogs.es/82e4b9/omid-armin-tf-wsmez9ag-unsplash/840_560.jpeg",
+            "publishedAt": "2024-03-05T09:32:01Z",
+            "content": "Se venía especulando con una sanción de 500 millones de euros, pero la Comisión Europea finalmente ha ido mucho más allá y ha dejado la cantidad en algo más de 1.800 millones de euros. Esa es la cant… [+5548 chars]"
+        },
+    
+        {
+        
+            "source": {
+                "id": null,
+                "name": "Xataka.com"
+            },
+            "author": "Jose García",
+            "title": "Google permitirá que los desarrolladores enlacen a su web en las apps para Android. Objetivo: cumplir con la DMA",
+            "description": "La DMA entra en vigor dentro de un par de días (el 7 de marzo) y las empresas ya se están adaptando para esta nueva normativa. Es eso o una multa. Apple es, sin duda, la que más atención ha recibido por lo que supone la DMA en materia de tiendas, pagos y sist…",
+            "url": "https://www.xataka.com/aplicaciones/google-permitira-que-desarrolladores-enlacen-a-su-web-apps-para-android-objetivo-cumplir-dma",
+            "urlToImage": "https://i.blogs.es/339e7d/img_9109/840_560.jpeg",
+            "publishedAt": "2024-03-05T12:10:31Z",
+            "content": "La DMA entra en vigor dentro de un par de días (el 7 de marzo) y las empresas ya se están adaptando para esta nueva normativa. Es eso o una multa. Apple es, sin duda, la que más atención ha recibido … [+3057 chars]"
+        },
+    
+        {
+        
+            "source": {
+                "id": null,
+                "name": "Xataka.com"
+            },
+            "author": "Manu García (Visnuh)",
+            "title": "Los buenos perfumes vienen en formato pequeño. Como los buenos auriculares. Estos Bose son el mejor regalo para un padre melómano",
+            "description": "Si andas buscando unos auriculares Bluetooth de tipo tws con la calidad de los AirPods Pro pero que no te aten tanto al ecosistema de Apple, los recientes Bose QuietComfort Ultra son una excelente opción. Además, ahora mismo, en Amazon, los puedes coneseguir …",
+            "url": "https://www.xataka.com/seleccion/buenos-perfumes-vienen-formato-pequeno-como-buenos-auriculares-estos-bose-mejor-regalo-para-padre-melomano",
+            "urlToImage": "https://i.blogs.es/ce6cb0/bose-quietcomfort-ultra_1/840_560.jpeg",
+            "publishedAt": "2024-03-05T13:46:01Z",
+            "content": "Si andas buscando unos auriculares Bluetooth de tipo tws con la calidad de los AirPods Pro pero que no te aten tanto al ecosistema de Apple, los recientes Bose QuietComfort Ultra son una excelente op… [+2553 chars]"
+        },
+    
+        {
+        
+            "source": {
+                "id": null,
+                "name": "Xataka.com"
+            },
+            "author": "Javier Penalva",
+            "title": "Nothing Phone 2a, análisis: más brillo (y sombras) del que vemos en su icónica parte trasera con LEDs",
+            "description": "Han transcurrido solamente cuatro años desde la creación de Nothing y apenas dos desde que conocimos (y analizamos) su Nothing Phone. Sin embargo, este teléfono que busca ser diferente en muchos apartados, no solo en diseño, ya es muy reconocido entre los más…",
+            "url": "https://www.xataka.com/analisis/nothing-phone-2a-analisis-caracteristicas-precio-especificaciones",
+            "urlToImage": "https://i.blogs.es/244e55/nothing-phone-2a-review-xataka-portada-buena/840_560.jpeg",
+            "publishedAt": "2024-03-05T12:30:03Z",
+            "content": "Han transcurrido solamente cuatro años desde la creación de Nothing y apenas dos desde que conocimos (y analizamos) su Nothing Phone. Sin embargo, este teléfono que busca ser diferente en muchos apar… [+20306 chars]"
+        },
+    
+        {
+        
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Kurt Knutsson, CyberGuy Report",
+            "title": "6 easy steps to save money by canceling your unused or unwanted subscriptions on your iPhone",
+            "description": "Kurt “CyberGuy\" Knutsson helps you learn how to save money by finding and canceling your unused or unwanted subscriptions on your iPhone in six easy steps.",
+            "url": "https://www.foxnews.com/tech/6-easy-steps-to-save-money-by-canceling-your-unused-or-unwanted-subscriptions-on-your-iphone",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/03/6-6-easy-steps-to-save-money-by-canceling-your-unused-or-unwanted-subscriptions-on-your-iPhone.jpg",
+            "publishedAt": "2024-03-05T11:00:16Z",
+            "content": "Join Fox News for access to this content\r\nPlus special access to select articles and other premium content with your account - free of charge.\r\nPlease enter a valid email address.\r\nBy entering your e… [+4351 chars]"
+        },
+    
+        {
+        
+            "source": {
+                "id": null,
+                "name": "Gigazine.net"
+            },
+            "author": "@GIGAZINE",
+            "title": "Appleが「スポーツ賭博」に手を染めようとしているとの指摘",
+            "description": "Appleは2024年2月21日に、スポーツ情報アプリ「Apple Sports」を北米とイギリスのiPhoneユーザー向けにリリースしました。しかし、このアプリは肝心のスポーツ観戦に関するデータが乏しい一方で、賭け金のオッズ情報が充実していることから、アメリカの月刊誌・The Atlanticが「Appleがギャンブルに傾倒しつつあるのではないか」と指摘しました。続きを読む...",
+            "url": "https://gigazine.net/news/20240305-apple-sports-gambling-app/",
+            "urlToImage": "https://i.gzn.jp/img/2024/03/05/apple-sports-gambling-app/00.png",
+            "publishedAt": "2024-03-05T11:00:00Z",
+            "content": "Apple2024221Apple SportsiPhoneThe AtlanticApple\r\nDid Apple Just Make a Gambling App? - The Atlantichttps://www.nytimes.com/2024/02/28/technology/openai-copyright-suit-media.html\r\nThe AtlanticApple Sp… [+286 chars]"
+        },
+    
+        {
+        
+            "source": {
+                "id": null,
+                "name": "heise online"
+            },
+            "author": "Andreas Knobloch",
+            "title": "Dienstag: NASA-Projekt eingestellt, Amazon investiert Milliarden in Mexiko",
+            "description": "NASA ohne \"engagierten Partner\" + Milliardeninvestition von Amazon + Apple wird bestraft + Tesla in der Pflicht + Humanoid-Roboter knackt Geschwindigkeitsrekord",
+            "url": "https://www.heise.de/news/Dienstag-NASA-Projekt-eingestellt-Amazon-investiert-Milliarden-in-Mexiko-9645959.html",
+            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/5/5/1/6/6/5/Wochentage-source-sans-29be44071b3ce696.png",
+            "publishedAt": "2024-03-05T05:30:00Z",
+            "content": "Die US-Raumfahrbehörde NASA beendet ihr Satellitenbetankungsprojekt nach technischen Schwierigkeiten, Kostenüberschreitungen und Problemen mit dem Zeitplan. Die Amazon-Tochter AWS plant ein Zentrum f… [+3759 chars]"
+        },
+    
+        {
+        
+            "source": {
+                "id": null,
+                "name": "heise online"
+            },
+            "author": "Ben Schwan",
+            "title": "Nächster alternativer iOS App Store angekündigt – diesmal aus Deutschland",
+            "description": "Nach Setapp und Epic hat sich ein weiterer Anbieter gemeldet, der einen \"Alternative App Marketplace\" für das iPhone betreiben möchte.  Er kommt aus Köln.",
+            "url": "https://www.heise.de/news/Naechster-alternativer-iOS-App-Store-angekuendigt-diesmal-aus-Deutschland-9646344.html",
+            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/5/5/1/8/7/8/Screenshot_2024-03-05_at_11.05.37-2-02c6429303f9a9b2.png",
+            "publishedAt": "2024-03-05T11:31:00Z",
+            "content": "Apple hat den dritten Anbieter kommuniziert, der nach den neuen App-Store-Regeln in der EU einen eigenen \"Alternative App Marketplace\" starten will. Nachdem der ukrainisch-irische Anbieter Setapp sic… [+2300 chars]"
+        },
+    
+        {
+        
+            "source": {
+                "id": null,
+                "name": "heise online"
+            },
+            "author": "Heinz Behling",
+            "title": "heise+ | Lightburn für günstige Laser: So arbeiten Sie effizient mit der Laser-Software",
+            "description": "Lightburn ist beim Lasern Stand der Technik. Hier erfahren Sie, wie man die Software auf preiswerten Lasercuttern installiert und damit arbeitet.",
+            "url": "https://www.heise.de/ratgeber/Lightburn-fuer-guenstige-Laser-So-arbeiten-Sie-effizient-mit-der-Laser-Software-9605451.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/5/3/0/2/1/8/Laser_Aufmacher-f79b9e29331979d4.jpg",
+            "publishedAt": "2024-03-05T11:15:00Z",
+            "content": "Inhaltsverzeichnis\r\nLasercutter und 3D-Drucker haben eines gemeinsam: Sie werden von einer Software gesteuert, die aus den Konstruktionsdateien die zur Ansteuerung der Maschine notwendigen Befehle ge… [+2589 chars]"
+        },
+    
+        {
+        
+            "source": {
+                "id": null,
+                "name": "heise online"
+            },
+            "author": "Berti Kolbow-Lehradt",
+            "title": "Homematic IP Home Control Unit: Schaltzentrale mit Offline-Betrieb und EEBus",
+            "description": "Außer einer sehr funktionsreichen Schaltzentrale zeigt Homematic eine hübschere App mit Sprechanlagen-Support sowie neues Zubehör, darunter einen Lightstrip.",
+            "url": "https://www.heise.de/news/Homematic-IP-Home-Control-Unit-Schaltzentrale-mit-Offline-Betrieb-und-EEBus-9646178.html",
+            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/5/5/1/7/8/4/Homematic-IP-Light-Building-24-01-Home-Control-Unit-54755efe7eb30bbd.jpg",
+            "publishedAt": "2024-03-05T11:55:00Z",
+            "content": "Inhaltsverzeichnis\r\nDie Marke Homematic IP runderneuert ihr Smart-Home-System. Die neue Schaltzentrale Home Control Unit ergänzt die vorherigen Modelle und vereint deren Optionen für einen On- und Of… [+6297 chars]"
+        },
+    
+        {
+        
+            "source": {
+                "id": null,
+                "name": "9to5Mac"
+            },
+            "author": "Bradley Chambers",
+            "title": "Apple @ Work Podcast: Vision Pro and device management support",
+            "description": "Apple @ Work is exclusively brought to you by Mosyle, the only Apple Unified Platform. Mosyle is the only solution that integrates in a single professional-grade platform all the solutions necessary to seamlessly and automatically deploy, manage & protect App…",
+            "url": "https://9to5mac.com/2024/03/05/vision-pro-and-device-management-support/",
+            "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/01/Apple-At-Work-FI.png?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2024-03-05T11:00:00Z",
+            "content": "Apple @ Work is exclusively brought to you by Mosyle, the only Apple Unified Platform. Mosyle is the only solution that integrates in a single professional-grade platform all the solutions necessary … [+548 chars]"
+        },
+    
+        {
+        
+            "source": {
+                "id": null,
+                "name": "9to5Mac"
+            },
+            "author": "Ben Lovejoy",
+            "title": "iPhone sales ride high in Japan, plunge in China",
+            "description": "There’s good news and bad for Apple in two different market intelligence reports. One points to Apple’s market share rising and continuing to utterly dominate the Japanese smartphone market, while the other describes a dramatic slump in iPhone sales in China.…",
+            "url": "https://9to5mac.com/2024/03/05/iphone-sales-ride-high-in-japan/",
+            "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/03/iPhone-sales-ride-high-in-Japan.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2024-03-05T13:20:17Z",
+            "content": "There’s good news and bad for Apple in two different market intelligence reports. One points to Apple’s market share rising and continuing to utterly dominate the Japanese smartphone market, while th… [+1590 chars]"
+        },
+    
+        {
+        
+            "source": {
+                "id": null,
+                "name": "9to5Mac"
+            },
+            "author": "Ben Lovejoy",
+            "title": "Spotify comment on Apple’s $2B antitrust fine hints at possible malicious compliance",
+            "description": "We noted yesterday that Spotify welcomed Apple being fined $2B for antitrust offences relating to streaming music services.\n\n\n\nThe tone of the company’s response, however, strongly suggests that it believes the iPhone maker will repeat what some have describe…",
+            "url": "https://9to5mac.com/2024/03/05/spotify-comment-on-apple/",
+            "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/03/Spotifys-comment-on-Apple.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2024-03-05T12:49:22Z",
+            "content": "We noted yesterday that Spotify welcomed Apple being fined $2B for antitrust offences relating to streaming music services.\r\nThe tone of the company’s response, however, strongly suggests that it bel… [+2110 chars]"
+        },
+    
+        {
+        
+            "source": {
+                "id": null,
+                "name": "9to5Mac"
+            },
+            "author": "Ben Lovejoy",
+            "title": "Parts pairing used by Apple set to be outlawed by Oregon",
+            "description": "The practice of parts pairing – which can prevent third-party repair shops from cannibalising broken devices for parts – is set to be outlawed by Oregon.\n\n\n\nThe legislature just passed the toughest right to repair legislation seen to date, and it now requires…",
+            "url": "https://9to5mac.com/2024/03/05/parts-pairing-oregon/",
+            "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/03/01CleanMy®Phone-Photo-2.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2024-03-05T13:55:45Z",
+            "content": "Why is the image above blurred? Regain clarity with CleanMyPhone by MacPaw the new AI-powered cleaning app that quickly identifies and removes blurred images, screenshots, and other clutter from your… [+2345 chars]"
+        },
+    
+        {
+        
+            "source": {
+                "id": null,
+                "name": "9to5Mac"
+            },
+            "author": "Ben Lovejoy",
+            "title": "M3 MacBook Air benchmarks match base MacBook Pro, as expected",
+            "description": "The first claimed M3 MacBook Air benchmarks have appeared on Geekbench. Unsurprisingly, given both machines have the same M3 chip, performance is near-identical to the base model 14-inch M3 MacBook Pro.\n\n\n\nThe benchmarks are for a machine labelled Mac15,13, w…",
+            "url": "https://9to5mac.com/2024/03/05/m3-macbook-air-benchmarks/",
+            "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/03/M3-MacBook-Air-benchmarks.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2024-03-05T12:08:43Z",
+            "content": "The first claimed M3 MacBook Air benchmarks have appeared on Geekbench. Unsurprisingly, given both machines have the same M3 chip, performance is near-identical to the base model 14-inch M3 MacBook P… [+1975 chars]"
+        },
+    
+        {
+        
+            "source": {
+                "id": null,
+                "name": "Dezeen"
+            },
+            "author": "Cajsa Carlson",
+            "title": "Ten wearable technology products that enhance our bodies",
+            "description": "Following the release of technology brand Samsung's first smart ring, we round up 10 recent wearable technology designs, including a smart menstrual cup and an air-purifying collar. While the concept of wearable technology can be applied to a wide range of pr…",
+            "url": "https://www.dezeen.com/2024/03/05/wearable-technology-products-improve-lives/",
+            "urlToImage": "https://static.dezeen.com/uploads/2023/03/respiray-wear-a-wearable-air-purifier-design_dezeen_hero10.jpeg",
+            "publishedAt": "2024-03-05T09:30:19Z",
+            "content": "Following the release of technology brand Samsung's first smart ring, we round up 10 recent wearable technology designs, including a smart menstrual cup and an air-purifying collar.\r\nWhile the concep… [+5245 chars]"
+        },
+    
+        {
+        
+            "source": {
+                "id": null,
+                "name": "MarketWatch"
+            },
+            "author": "Lira Mota",
+            "title": "Apple, Microsoft, Alphabet and other corporate giants have huge bond holdings, and here’s why that’s a problem",
+            "description": "Non-financial firms are key participants in financial markets, with the power to cause major price swings, volatile markets and even bank collapses.",
+            "url": "https://www.marketwatch.com/story/apple-microsoft-alphabet-and-other-corporate-giants-have-huge-bond-holdings-and-heres-why-thats-a-problem-dc6b3e36",
+            "urlToImage": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+            "publishedAt": "2024-03-05T12:15:00Z",
+            "content": "When a big bank collapses, we inevitably see concerns quickly resurface about the stability and resiliency of the financial sector. Policymakers, regulators and investors will ask, what regulations c… [+336 chars]"
+        },
+    
+        {
+        
+            "source": {
+                "id": null,
+                "name": "MarketWatch"
+            },
+            "author": "Louis Goss",
+            "title": "Chinese smartphone sales fall, customers unimpressed by Apple’s new iPhone model",
+            "description": "China’s lower smartphone sales also point to wider problems in the country’s economy",
+            "url": "https://www.marketwatch.com/story/chinese-smartphone-sales-fall-customers-unimpressed-by-apples-new-iphone-model-959e6150",
+            "urlToImage": "https://images.mktw.net/im-215383/social",
+            "publishedAt": "2024-03-05T10:48:00Z",
+            "content": "Chinese smartphone sales were down 7% in the first six weeks of 2024 compared with the same period last year, as customers showed a lack of interest in Apples newly launched iPhone 15 and instead tur… [+1965 chars]"
+        },
+    
+        {
+        
+            "source": {
+                "id": null,
+                "name": "MarketWatch"
+            },
+            "author": "Nelson Ireson",
+            "title": "10 top used sedan models you can get for under $30,000",
+            "description": "While the number of sedans is dwindling, the ones that remain are among the best cars that have ever been made. Look for these top used models.",
+            "url": "https://www.marketwatch.com/story/10-top-used-sedan-models-you-can-get-for-under-30-000-1b76ee0e",
+            "urlToImage": "https://images.mktw.net/im-58291454/social",
+            "publishedAt": "2024-03-05T10:03:00Z",
+            "content": "The sedan segment has been dying for more than a decade now, and while it has certainly lost some ground to SUVs, the sedans that remain are among the best cars that have ever been made sedan, SUV, o… [+4696 chars]"
+        },
+    
+        {
+        
+            "source": {
+                "id": null,
+                "name": "MarketWatch"
+            },
+            "author": "Ciara Linnane",
+            "title": "Novo Nordisk says Ozempic reduced risk of kidney problems by 24% in patients with Type 2 diabetes",
+            "description": "The company is planning to file for regulatory approval of a label expansion for Ozempic in the U.S. and European Union in 2024.",
+            "url": "https://www.marketwatch.com/story/novo-nordisk-says-ozempic-reduced-risk-of-kidney-problems-by-24-in-patients-with-type-2-diabetes-f17170bc",
+            "urlToImage": "https://images.mktw.net/im-74470623/social",
+            "publishedAt": "2024-03-05T13:20:00Z",
+            "content": "Novo Nordisk A.S. said Tuesday a five-year trial of its Ozempic weight-loss drug helped reduce the risk of kidney disease-related events in people with Type 2 diabetes by 24%.The Danish company discl… [+2777 chars]"
+        },
+    
+        {
+        
+            "source": {
+                "id": null,
+                "name": "MarketWatch"
+            },
+            "author": "Hannah Erin Lang",
+            "title": "Regulators are slashing credit-card late fees. When will customers see the charges shrink?",
+            "description": "The new rule slashes the typical late charge to just $8.",
+            "url": "https://www.marketwatch.com/story/regulators-are-slashing-credit-card-late-fees-when-will-customers-see-the-charges-shrink-6ed78f28",
+            "urlToImage": "https://images.mktw.net/im-72909701/social",
+            "publishedAt": "2024-03-05T13:11:00Z",
+            "content": "Federal regulators are slashing credit card late payment fees.The Consumer Financial Protection Bureau finalized a rule on Tuesday that caps credit-card late fees at $8, a fraction of what most issue… [+5503 chars]"
+        },
+    
+        {
+        
+            "source": {
+                "id": null,
+                "name": "AppleInsider"
+            },
+            "author": "news@appleinsider.com (William Gallagher)",
+            "title": "Apple tops Japan's declining smartphone market",
+            "description": "With Japan's smartphone market declining 3.5% year over year at the end of 2023, Apple's iPhone still continued to account for around half of all sales.Apple's iPhone 15 Pro MaxIt's 12 years since Apple's iPhone first topped the smartphone sales chart in Japa…",
+            "url": "https://appleinsider.com/articles/24/03/05/apple-tops-japans-declining-smartphone-market",
+            "urlToImage": "https://photos5.appleinsider.com/gallery/58842-119983-000-lede-iPhone-15-Pro-Max-xl.jpg",
+            "publishedAt": "2024-03-05T13:54:40Z",
+            "content": "Apple's iPhone 15 Pro Max\r\nWith Japan's smartphone market declining 3.5% year over year at the end of 2023, Apple's iPhone still continued to account for around half of all sales.\r\nIt's 12 years sinc… [+2066 chars]"
+        },
+    
+        {
+        
+            "source": {
+                "id": null,
+                "name": "AppleInsider"
+            },
+            "author": "news@appleinsider.com (William Gallagher)",
+            "title": "Apple drops to fourth place in China's smartphone sales",
+            "description": "China's smartphone market has continued to decline so far in 2024, and local resellers such as Huawei have overtaken Apple's iPhone.iPhone 15 Pro colorful lineupAfter coming top in China overall in 2023, Apple has dropped to fourth place in the first six week…",
+            "url": "https://appleinsider.com/articles/24/03/05/apple-drops-to-fourth-place-in-chinas-smartphone-sales",
+            "urlToImage": "https://photos5.appleinsider.com/gallery/56189-114315-Apple-iPhone-15-Pro-lineup-color-lineup-230912-xl.jpg",
+            "publishedAt": "2024-03-05T11:50:57Z",
+            "content": "iPhone 15 Pro colorful lineup\r\nChina's smartphone market has continued to decline so far in 2024, and local resellers such as Huawei have overtaken Apple's iPhone.\r\nAfter coming top in China overall … [+2550 chars]"
+        },
+    
+        {
+        
+            "source": {
+                "id": null,
+                "name": "AppleInsider"
+            },
+            "author": "news@appleinsider.com (Malcolm Owen)",
+            "title": "M3 MacBook Air vs M1 MacBook Air -- Compared",
+            "description": "Apple's M3 MacBook Air update isn't much of a change compared to the M2 version, but it is for the M1. Here's what a two-generation difference makes for the MacBook Air.M3 MacBook Air vs M1 MacBook AirMonday's introduction of the M3 MacBook Air family is an i…",
+            "url": "https://appleinsider.com/inside/macbook-air/vs/m3-macbook-air-vs-m1-macbook-air----compared",
+            "urlToImage": "https://photos5.appleinsider.com/gallery/58827-119978-mbacompareoldnewhead-xl.jpg",
+            "publishedAt": "2024-03-05T13:14:57Z",
+            "content": "M3 MacBook Air vs M1 MacBook Air\r\nApple's M3 MacBook Air update isn't much of a change compared to the M2 version, but it is for the M1. Here's what a two-generation difference makes for the MacBook … [+12279 chars]"
+        },
+    
+        {
+        
+            "source": {
+                "id": null,
+                "name": "AppleInsider"
+            },
+            "author": "news@appleinsider.com (Malcolm Owen)",
+            "title": "Early M3 MacBook Air benchmarks aren't surprising",
+            "description": "The first benchmarks for Apple's M3 MacBook Air have allegedly appeared, with the results showing a big improvement over its predecessor, the M2 MacBook Air.13-inch MacBook Air and 15-inch MacBook AirApple introduced its M3 MacBook Air lineup on Monday, addin…",
+            "url": "https://appleinsider.com/articles/24/03/05/early-m3-macbook-air-benchmarks-arent-surprising",
+            "urlToImage": "https://photos5.appleinsider.com/gallery/58839-119981-m3-macbook-air-grid-xl.jpg",
+            "publishedAt": "2024-03-05T12:50:00Z",
+            "content": "13-inch MacBook Air and 15-inch MacBook Air\r\nThe first benchmarks for Apple's M3 MacBook Air have allegedly appeared, with the results showing a big improvement over its predecessor, the M2 MacBook A… [+1349 chars]"
+        },
+    
+        {
+        
+            "source": {
+                "id": null,
+                "name": "CNET"
+            },
+            "author": "Joshua Goldman",
+            "title": "Apple Updates 13- and 15-inch MacBook Air with M3 chips video - CNET",
+            "description": "There are no design changes for Apple's thinnest, lightest MacBooks, but if you're over for an upgrade, now's the time.",
+            "url": "https://www.cnet.com/videos/apple-updates-13-and-15-inch-macbook-air-with-m3-chips/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/454b6452aa868014bbc56eb04b551ba79b045f27/hub/2024/03/05/0af002da-b4b0-4c1d-a0f7-25c7b90dc1fd/macbookair-news-00-00-17-16-still002.jpg?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2024-03-05T00:49:53Z",
+            "content": ""
+        },
+    
+        {
+        
+            "source": {
+                "id": null,
+                "name": "Journal du geek"
+            },
+            "author": "Julie Hay",
+            "title": "Après Dune, Rebecca Ferguson à l’affiche d’un autre film de SF pour Amazon MGM",
+            "description": "L'actrice passe d'un univers SF à un autre et signe une collaboration avec Amazon MGM Studios et Chris Pratt pour Mercy. C'est quoi ce projet pour le cinéma ?",
+            "url": "https://www.journaldugeek.com/2024/03/05/apres-dune-rebecca-ferguson-a-laffiche-dun-autre-film-de-sf-pour-amazon-mgm/",
+            "urlToImage": "https://www.journaldugeek.com/app/uploads/2024/03/rebecca-ferguson-science-fiction-amazon.jpg",
+            "publishedAt": "2024-03-05T12:24:56Z",
+            "content": "Dune, Silo ou encore Reminiscence, Rebecca Ferguson s’épanouit dans les futurs fantasmés sur le petit comme le grand écran. L’actrice suédoise s’apprête à ajouter une nouvelle ligne à son impressionn… [+2141 chars]"
+        },
+    
+        {
+        
+            "source": {
+                "id": null,
+                "name": "Journal du geek"
+            },
+            "author": "Antoine Gautherie",
+            "title": "Nvidia devient la troisième entreprise la plus riche du monde",
+            "description": "Avec une capitalisation boursière qui vient de dépasser les 2000 milliards de dollars, le titan du hardware continue de surfer sur la vague de l'IA et se rapproche désormais d'Apple.",
+            "url": "https://www.journaldugeek.com/2024/03/05/nvidia-devient-la-troisieme-entreprise-la-plus-riche-du-monde/",
+            "urlToImage": "https://www.journaldugeek.com/app/uploads/2023/10/nvidia-hq.jpg",
+            "publishedAt": "2024-03-05T11:44:59Z",
+            "content": "Plus rien narrête Nvidia. Vendredi dernier, lentreprise de Jeffrey Huang a atteint pour la première fois les 2 000 milliards de dollars de capitalisation boursière. Et aujourdhui, à peine trois semai… [+4399 chars]"
+        },
+    
+        {
+        
+            "source": {
+                "id": null,
+                "name": "Journal du geek"
+            },
+            "author": "Thomas Estimbre",
+            "title": "Test Nothing Phone (2a) : le plus beau des smartphones abordables",
+            "description": "Nothing a enfin lancé le Phone (2a), un smartphone accessible qui rêve de secouer le milieu de gamme en ce début d’année. On a passé plus d’une semaine avec le Nothing Phone (2a), voici notre verdict.",
+            "url": "https://www.journaldugeek.com/test/test-nothing-phone-2a-le-plus-beau-des-smartphones-abordables/",
+            "urlToImage": "https://www.journaldugeek.com/app/uploads/2024/03/nothing-phone-2a-test-15.jpg",
+            "publishedAt": "2024-03-05T12:38:44Z",
+            "content": "En quelques années à peine, Nothing sest fait un nom dans lunivers du smartphone et de la tech. La marque fondée par Carl Pei na eu besoin que de deux smartphones pour marquer les esprits, misant sur… [+10506 chars]"
+        },
+    
+        {
+        
+            "source": {
+                "id": null,
+                "name": "Applesfera.com"
+            },
+            "author": "Jesús Quesada",
+            "title": "La alternativa muy barata al Apple AirTag está en AliExpress y también se integra en Buscar",
+            "description": "Apple abrió las puertas a su red Buscar con el objetivo de que más dispositivos pudieran usarla, de modo que existan alternativas a las propias propuestas de la marca (algo que no siempre es habitual en los de Cupertino). Una opción mucho más asequible es est…",
+            "url": "https://www.applesfera.com/seleccion/alternativa-muy-barata-al-apple-airtag-esta-aliexpress-tambien-se-integra-buscar",
+            "urlToImage": "https://i.blogs.es/cd2b0f/localizador-alternativa-apple-airtag/840_560.jpeg",
+            "publishedAt": "2024-03-05T09:30:41Z",
+            "content": "Apple abrió las puertas a su red Buscar con el objetivo de que más dispositivos pudieran usarla, de modo que existan alternativas a las propias propuestas de la marca (algo que no siempre es habitual… [+2539 chars]"
+        },
+    
+        {
+        
+            "source": {
+                "id": null,
+                "name": "Applesfera.com"
+            },
+            "author": "Isra Fdez",
+            "title": "Así era The Byte Shop, la primera tienda de Apple que vendía en exclusiva el Apple I a 666 dólares y nació siendo un videoclub de vídeos porno",
+            "description": "Hay una máxima común cuando se habla de Apple: las Apple Store son algunos de los puntos de venta más rentables por metro cuadrado del planeta. Pero las tiendas de Apple, antes de ser templos, museos y centros de congregación para los más fanáticos, fueron si…",
+            "url": "https://www.applesfera.com/curiosidades/asi-era-the-byte-shop-primera-tienda-apple-que-vendia-exclusiva-apple-i-a-666-dolares-nacio-siendo-videoclub-videos-porno",
+            "urlToImage": "https://i.blogs.es/06750f/primera-tienda-de-apple-/840_560.jpeg",
+            "publishedAt": "2024-03-05T13:00:15Z",
+            "content": "Hay una máxima común cuando se habla de Apple: las Apple Storeson algunos de los puntos de venta más rentables por metro cuadrado del planeta. Pero las tiendas de Apple, antes de ser templos, museos … [+5585 chars]"
+        },
+    
+        {
+        
+            "source": {
+                "id": null,
+                "name": "Applesfera.com"
+            },
+            "author": "Álvaro García M.",
+            "title": "Los nuevos MacBook Air M3 dan un vuelco al precio de los M2: así queda el catálogo de portátiles de Apple",
+            "description": "La gama de portátiles más barata de Apple se ha renovado esta semana con los nuevos MacBook Air M3 de 13 y 15 pulgadas. Se trata de una importante actualización al incorporar el chip M3, aunque en lo relativo a la estética y otros componentes no cambia demasi…",
+            "url": "https://www.applesfera.com/portatil/nuevos-macbook-air-m3-dan-vuelco-al-precio-m2-asi-queda-catalogo-portatiles-apple",
+            "urlToImage": "https://i.blogs.es/2dfc42/macbook-air-m3/840_560.jpeg",
+            "publishedAt": "2024-03-05T08:01:58Z",
+            "content": "La gama de portátiles más barata de Apple se ha renovado esta semana con los nuevos MacBook Air M3 de 13 y 15 pulgadas. Se trata de una importante actualización al incorporar el chip M3, aunque en lo… [+6198 chars]"
+        },
+    
+        {
+        
+            "source": {
+                "id": null,
+                "name": "Applesfera.com"
+            },
+            "author": "Álvaro García M.",
+            "title": "Comparativa MacBook Air M2 vs MacBook Air M3: muchos parecidos y algunas diferencias clave para dar el salto a uno u otro",
+            "description": "En el año 2022 asistimos al gran rediseño de la gama de entrada de portátiles de Apple con el MacBook Air M2 de 13 pulgadas y tuvimos que esperar un año para ver el MacBook Air M2 de 15 pulgadas. Esta vez no ha sido así y Apple ha presentado ambos a la vez. L…",
+            "url": "https://www.applesfera.com/portatil/comparativa-macbook-air-m2-vs-macbook-air-m3",
+            "urlToImage": "https://i.blogs.es/28d9cd/m2-vs-m3/840_560.jpeg",
+            "publishedAt": "2024-03-05T12:02:01Z",
+            "content": "En el año 2022 asistimos al gran rediseño de la gama de entrada de portátiles de Apple con el MacBook Air M2 de 13 pulgadas y tuvimos que esperar un año para ver el MacBook Air M2 de 15 pulgadas. Est… [+11525 chars]"
+        },
+    
+        {
+        
+            "source": {
+                "id": null,
+                "name": "Presse-citron"
+            },
+            "author": "Manon Carpentier",
+            "title": "Mais où est passé Maps dans vos résultats Google ?",
+            "description": "Depuis quelques jours, lorsque vous cherchez un lieu sur Google, Maps ne répond plus présent à l’appel. Que se passe-t-il ?",
+            "url": "https://www.presse-citron.net/mais-ou-est-passe-maps-dans-vos-resultats-google/",
+            "urlToImage": "https://www.presse-citron.net/app/uploads/2023/08/google-ordinateur.jpg",
+            "publishedAt": "2024-03-05T10:58:12Z",
+            "content": "Ah, Google Maps ! Depuis plusieurs années, ce service est un allié incontournable pour de nombreux utilisateurs. En plus de proposer un itinéraire (à pied, à vélo, en transports en commun ou en voitu… [+2601 chars]"
+        },
+    
+        {
+        
+            "source": {
+                "id": null,
+                "name": "Openculture.com"
+            },
+            "author": "Mark Linsenmayer",
+            "title": "The Puzzle of Docudramas — Pretty Much Pop: A Culture Podcast #167",
+            "description": "When we’ve already heard about someone’s personal scandal in the news, do we need to also see it dramatized with A‑list actors? Your hosts Mark Linsenmayer, Lawrence Ware, Sarahlyn Bruck, and Al Baker discuss Todd Haynes’ 2023 film May December fictionalizing…",
+            "url": "https://www.openculture.com/2024/03/the-puzzle-of-docudramas-pretty-much-pop-a-culture-podcast-167.html",
+            "urlToImage": "https://cdn8.openculture.com/2024/02/09051911/PMP-Docudramas-400-x-800.jpg",
+            "publishedAt": "2024-03-05T08:01:50Z",
+            "content": "https://podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/partiallyexaminedlife/PMP_167_1-2924.mp3\r\nWhen weve already heard about someones per­son­al scan­dal in the news, do we need to also see… [+1654 chars]"
+        },
+    
+        {
+        
+            "source": {
+                "id": null,
+                "name": "Golem.de"
+            },
+            "author": "Simon Krebs",
+            "title": "Anzeige: Apple Macbook Air mit M2 mit über 250 Euro Rabatt",
+            "description": "Apple hat das neue Macbook Air mit M3 präsentiert. Passend dazu ist bei Amazon derzeit das Macbook Air mit M2 besonders günstig erhältlich. (Macbook Air, Apple)",
+            "url": "https://www.golem.de/sonstiges/zustimmung/auswahl.html?from=https%3A%2F%2Fwww.golem.de%2Fnews%2Fanzeige-apple-macbook-air-mit-m2-mit-ueber-250-euro-rabatt-2403-182874.html&referer=https%3A%2F%2Ft.co%2F03e9487041",
+            "urlToImage": null,
+            "publishedAt": "2024-03-05T11:26:01Z",
+            "content": "Besuchen Sie Golem.de wie gewohnt mit Werbung und Tracking,\r\n indem Sie der Nutzung aller Cookies zustimmen.\r\n Details zum Tracking finden Sie im Privacy Center.\r\nSkript wurde nicht geladen. Informat… [+607 chars]"
+        },
+    
+        {
+        
+            "source": {
+                "id": null,
+                "name": "Golem.de"
+            },
+            "author": "Oliver Nickel",
+            "title": "Nach Macbook Air: Macbook Pro mit M3 wird zwei externe Displays unterstützen",
+            "description": "Für die Fähigkeit, zwei externe Bildschirme anzusteuern, hat man bisher einen M3 Pro benötigt. Ein Software-Update soll das ändern - mit einem Haken. (Macbook, Apple)",
+            "url": "https://www.golem.de/sonstiges/zustimmung/auswahl.html?from=https%3A%2F%2Fwww.golem.de%2Fnews%2Fnach-macbook-air-macbook-pro-mit-m3-wird-zwei-externe-displays-unterstuetzen-2403-182861.html&referer=https%3A%2F%2Ft.co%2F8b11393288",
+            "urlToImage": null,
+            "publishedAt": "2024-03-05T08:42:01Z",
+            "content": "Besuchen Sie Golem.de wie gewohnt mit Werbung und Tracking,\r\n indem Sie der Nutzung aller Cookies zustimmen.\r\n Details zum Tracking finden Sie im Privacy Center.\r\nSkript wurde nicht geladen. Informat… [+607 chars]"
+        },
+    
+        {
+        
+            "source": {
+                "id": null,
+                "name": "Presse-citron"
+            },
+            "author": "Manon Carpentier",
+            "title": "Quel avenir pour Apple Pay en France ?",
+            "description": "Le monopole d’Apple Pay est bientôt terminé.",
+            "url": "https://www.presse-citron.net/quel-avenir-pour-apple-pay-en-france/",
+            "urlToImage": "https://www.presse-citron.net/app/uploads/2019/08/applepay-banqueenligne.jpg",
+            "publishedAt": "2024-03-05T12:03:31Z",
+            "content": "Décidément, la Commission européenne ne laisse aucun répit à Apple. Après sêtre vu sanctionné par une amende de 1,84 milliard deuros pour concurrence déloyale envers Spotify (et autres plateformes de… [+3466 chars]"
+        },
+    
+        {
+        
+            "source": {
+                "id": null,
+                "name": "Presse-citron"
+            },
+            "author": "Presse-citron",
+            "title": "Apple verse de l’argent aux utilisateurs iPhone : qui peut en profiter ?",
+            "description": "Certains clients francophones de la firme à la pomme vont pouvoir recevoir une compensation suite à un souci rencontré par leur mobile haut de gamme. On vous explique.",
+            "url": "https://www.presse-citron.net/apple-verse-de-largent-aux-utilisateurs-iphone-qui-peut-en-profiter/",
+            "urlToImage": "https://www.presse-citron.net/app/uploads/2024/03/iphone7.jpg",
+            "publishedAt": "2024-03-05T08:31:38Z",
+            "content": "Rappelez-vous : en 2018, une mise à jour d’iOS ralentissait les performances des iPhone équipés, mais sans en informer les utilisateurs. Très rapidement, le fabricant avouera les faits et se retrouve… [+4179 chars]"
+        },
+    
+        {
+        
+            "source": {
+                "id": null,
+                "name": "iMore"
+            },
+            "author": "oliver@monkeymanmedia.com (Oliver Haslam)",
+            "title": "Apple Card Savings accounts can now hold a cool $1 million — or you could buy 285 Apple Vision Pro headsets instead",
+            "description": "Your Apple Card Savings account can now hold $1 million, up from the previous $250,000 limit.",
+            "url": "https://www.imore.com/apple/apple-card-savings-accounts-can-now-hold-a-cool-dollar1-million-or-you-could-buy-285-apple-vision-pro-headsets-instead",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/R2seR45xn9nVbdEVEySkoS-1200-80.jpg",
+            "publishedAt": "2024-03-05T13:13:19Z",
+            "content": "If you are an Apple Card user with a Savings account, you're now able to save up to $1 million for the first time. The news means that the previous $250,000 savings limit has been expanded considerab… [+1391 chars]"
+        },
+    
+        {
+        
+            "source": {
+                "id": null,
+                "name": "iMore"
+            },
+            "author": "oliver@monkeymanmedia.com (Oliver Haslam)",
+            "title": "IMAX is now available on Apple Vision Pro — four new documentaries 'fully immerse' you in your own private 1.43:1 theater",
+            "description": "The Apple Vision Pro is getting new 3D documentaries from IMAX.",
+            "url": "https://www.imore.com/vision-pro/imax-is-now-available-on-apple-vision-pro-four-new-documentaries-fully-immerse-you-in-your-own-private-1431-theater",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/kBVvBRFLidwQJ7XG9cvYfn-1200-80.jpg",
+            "publishedAt": "2024-03-05T12:36:02Z",
+            "content": "When Apple announced the Apple Vision Pro mixed reality headset there were a handful of use cases that were obviously going to become key if the product is going to take off. 3D video content is argu… [+3186 chars]"
+        },
+    
+        {
+        
+            "source": {
+                "id": null,
+                "name": "iMore"
+            },
+            "author": "oliver@monkeymanmedia.com (Oliver Haslam)",
+            "title": "Apple could face a class action lawsuit over iCloud's 5GB free plan and limitations on what third-party alternatives can back up",
+            "description": "Apple could face a class action lawsuit over claims it limits what services can back up while offering just 5GB of free iCloud storage.",
+            "url": "https://www.imore.com/icloud/apple-could-face-a-class-action-lawsuit-over-iclouds-5gb-free-plan-and-limitations-on-what-third-party-alternatives-can-back-up",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/W8dZEqBHhToZC75tMSCgFM-1200-80.jpeg",
+            "publishedAt": "2024-03-05T13:37:12Z",
+            "content": "When Apple announced iCloud way back in 2011, Steve Jobs was the man who took to the stage to share the news. He said that Apple would give every iPhone owner 5GB of free storage for mail, documents,… [+3299 chars]"
+        },
+    
+        {
+        
+            "source": {
+                "id": null,
+                "name": "iMore"
+            },
+            "author": "oliver@monkeymanmedia.com (Oliver Haslam)",
+            "title": "Creating immersive Apple Vision Pro videos requires cameras that don't exist yet, but Canon's working to change that",
+            "description": "Canon says we need cameras that don't exist if we want to create real, immersive content for the Apple Vision Pro — and it's working on making them.",
+            "url": "https://www.imore.com/vision-pro/creating-immersive-apple-vision-pro-videos-requires-cameras-that-dont-exist-yet-but-canons-working-to-change-that",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/JxBoAv74xj8TEASpuz94Tg-1200-80.jpg",
+            "publishedAt": "2024-03-05T12:14:21Z",
+            "content": "The Apple Vision Pro has been on sale for more than a month now and while some of the excitement has started to die down, it's still one of the hottest products around. So much so that it's a topic o… [+3269 chars]"
+        },
+    
+        {
+        
+            "source": {
+                "id": null,
+                "name": "iMore"
+            },
+            "author": "Stephen Warwick",
+            "title": "Owned one of these iPhones in Canada? Apple could owe you up to $150 as part of the latest 'Batterygate' settlement",
+            "description": "Another iPhone batterygate settlement has been approved, this time in Canada.",
+            "url": "https://www.imore.com/iphone/owned-one-of-these-iphones-in-canada-apple-could-owe-you-up-to-dollar150-as-part-of-the-latest-batterygate-settlement",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/m9SBN3Kp8FaRS5CPns2zom-1200-80.jpg",
+            "publishedAt": "2024-03-05T12:04:50Z",
+            "content": "Owners of a series of older iPhones in Canada could be eligible for payouts of up to $150 as part of the latest ‘Batterygate’ settlement agreed by Apple. \r\nAs part of the ongoing legal fallout from A… [+2285 chars]"
+        },
+    
+        {
+        
+            "source": {
+                "id": null,
+                "name": "iMore"
+            },
+            "author": "Stephen Warwick",
+            "title": "M3 MacBook Air benchmarks leak — Earliest figures reveal 20% performance boost over M2 model",
+            "description": "New early benchmark figures reveal the M3 MacBook Air is 20% faster than the M2 model.",
+            "url": "https://www.imore.com/mac/macbook/m3-macbook-air-benchmarks-leak-earliest-figures-reveal-20-performance-boost-over-m2-model",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/63AdidBfxe8sebFrrPrnT4-1200-80.jpg",
+            "publishedAt": "2024-03-05T11:15:16Z",
+            "content": "Less than 24 hours after Apple unveiled its brand-new M3 MacBook Air, leaked benchmarks have revealed its substantial increase in power and performance over the M2 model. \r\nOn Monday, Apple unveiled … [+1925 chars]"
+        },
+    
+        {
+        
+            "source": {
+                "id": null,
+                "name": "iMore"
+            },
+            "author": "john-anthony.disotto@futurenet.com (John-Anthony Disotto)",
+            "title": "iPhone sales plunge in China — first six weeks of 2024 see 24% decline for Cupertino year-over-year",
+            "description": "Apple's smartphone sales in China don't look too great for the start of 2024 as year-over-year sees a 24% slump in first six weeks.",
+            "url": "https://www.imore.com/iphone/iphone-sales-plunge-in-china-first-six-weeks-of-2024-see-24-decline-for-cupertino-year-over-year",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/Ms6QscBpmiDMprrWHcRZFY-1200-80.jpg",
+            "publishedAt": "2024-03-05T10:36:51Z",
+            "content": "Apple’s iPhone sales in China aren’t looking too cheery for the first six weeks of 2024, with an estimated 24% drop year-over-year.\r\nThis report comes from research firm Counterpoint, whose findings … [+1938 chars]"
+        },
+    
+        {
+        
+            "source": {
+                "id": null,
+                "name": "iMore"
+            },
+            "author": "Tammy Rogers",
+            "title": "Your M3 MacBook Pro will be able to support multiple displays soon, just like the M3 MacBook Air",
+            "description": "The M3 MacBook Air brought multiple display support — and now the M3 MacBook Pro is getting it too.",
+            "url": "https://www.imore.com/mac/macbook/your-m3-macbook-pro-will-be-able-to-support-multiple-displays-soon-just-like-the-m3-macbook-air",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/eX7uFeecSsNLwLQBFzRVba-1200-80.jpg",
+            "publishedAt": "2024-03-05T10:41:21Z",
+            "content": "Users of the M3 MacBook Pro are going to get one of the biggest new features of the M3 MacBook Air with a software update — native support for multiple displays.\r\nThe same limitations apply, however,… [+2023 chars]"
+        },
+    
+        {
+        
+            "source": {
+                "id": null,
+                "name": "/FILM"
+            },
+            "author": "staff@slashfilm.com (BJ Colangelo)",
+            "title": "Here's When You Can Watch Argylle At Home",
+            "description": "If you didn&amp;#39;t catch the film in theaters (or if you actively chose to wait until VOD release), here&amp;#39;s how to watch Argylle at home.",
+            "url": "https://www.slashfilm.com/1532076/how-to-watch-argylle-at-home/",
+            "urlToImage": "https://www.slashfilm.com/img/gallery/heres-when-you-can-watch-argylle-at-home/l-intro-1709596314.jpg",
+            "publishedAt": "2024-03-05T04:00:00Z",
+            "content": "Do you know the truth behind the identity of Agent Argylle? Matthew Vaughn's action rom-com for Apple starring Bryce Dallas Howard, Henry Cavill, Dua Lipa, Samuel L. Jackson, and Sam Rockwell first d… [+1204 chars]"
+        },
+    
+        {
+        
+            "source": {
+                "id": null,
+                "name": "Techmeme.com"
+            },
+            "author": null,
+            "title": "Chinese smartphone sales declined 7% YoY in the first six weeks of 2024; Huawei rose 64% YoY while Apple fell 24% YoY, OPPO fell 29% YoY, and Vivo fell 15% YoY (Counterpoint Research)",
+            "description": "Counterpoint Research:\nChinese smartphone sales declined 7% YoY in the first six weeks of 2024; Huawei rose 64% YoY while Apple fell 24% YoY, OPPO fell 29% YoY, and Vivo fell 15% YoY  —  - Growth: China's smartphone unit sales declined by 7% YoY during the fi…",
+            "url": "https://www.techmeme.com/240305/p4",
+            "urlToImage": "https://www.counterpointresearch.com/wp-content/uploads/2024/03/China-Weekly-Smartphone-Unit-Sales-Share-Growth-in-First-6-Weeks-of-Year-2024-vs-2023.png",
+            "publishedAt": "2024-03-05T11:01:01Z",
+            "content": "About This Page\r\nThis is a Techmeme archive page.\r\nIt shows how the site appeared at 6:01 AM ET, March 5, 2024.\r\nThe most current version of the site as always is available at our home page.\r\nTo view… [+67 chars]"
+        },
+    
+        {
+        
+            "source": {
+                "id": null,
+                "name": "MacRumors"
+            },
+            "author": "Juli Clover",
+            "title": "Spotify Lauds $2 Billion EU Fine, Says Apple Has 'Muzzled' Streaming Music Services",
+            "description": "Apple was today fined €1.8 billion ($1.95 billion) for anti-competitive conduct against rival streaming music services in the European Union, and following the ruling, Spotify has praised the European Commission for its decision.\n\n\n\n\n\nFor context, the Europea…",
+            "url": "https://www.macrumors.com/2024/03/04/spotify-lauds-2-billion-eu-fine-says-apple-has-muzzled-streaming-music-services/",
+            "urlToImage": "https://images.macrumors.com/t/7-nfr3K2_BPQYeb0zBLJE8hdAb0=/2500x/article-new/2021/08/General-Spotify-Feature.jpg",
+            "publishedAt": "2024-03-05T00:27:00Z",
+            "content": "Apple was today fined 1.8 billion ($1.95 billion) for anti-competitive conduct against rival streaming music services in the European Union, and following the ruling, Spotify has praised the European… [+2883 chars]"
+        },
+    
+        {
+        
+            "source": {
+                "id": null,
+                "name": "Les Numériques"
+            },
+            "author": "Rick",
+            "title": "Actualité : Bon plan – Le smartphone Apple iPhone 15 Pro 128 Go \"5 étoiles\" à 1 092,00 €",
+            "description": "Le smartphone Apple iPhone 15 Pro 128 Go passe sous les 1100 € chez E. Leclerc - High-Tech. C'est actuellement l'un des meilleurs produit de notre comparatif.",
+            "url": "https://www.lesnumeriques.com/telephone-portable/bon-plan-le-smartphone-apple-iphone-15-pro-128-go-5-etoiles-a-1-092-00-n219138.html",
+            "urlToImage": "https://cdn.lesnumeriques.com/optim/test/21/213604/04069324-iphone-15-pro-il-est-libre-du-max__1200_630__overflow.jpg",
+            "publishedAt": "2024-03-05T07:14:01Z",
+            "content": "Modèle concernéCe contenu porte spécifiquement sur le modèle : 128 Go. D'autres déclinaisons existent et leurs prix sont indiqués dans les onglets du tableau ci-dessous.\r\nLe plus petit des Pro est ce… [+1812 chars]"
+        },
+    
+        {
+        
+            "source": {
+                "id": null,
+                "name": "Les Numériques"
+            },
+            "author": "lesnums",
+            "title": "Top bon plan : Dyson, Samsung, Apple... les meilleurs bons plans du 05/03/2024",
+            "description": "Nous publions chaque jour une vingtaine de bons plans. Pour vous faciliter la tâche, voici les meilleurs bons plans, selon nous les incontournables parmi les plus belles promos du jour",
+            "url": "https://www.lesnumeriques.com/societe-numerique/dyson-samsung-apple-les-meilleurs-bons-plans-du-05-03-2024-n219139.html",
+            "urlToImage": "https://cdn.lesnumeriques.com/optim/news/18/188269/9e96ef1c-top-5-nvidia-rtx-jabra-samsung-les-meilleurs-bons-plans-du-jour_png__1200_630__overflow.jpg",
+            "publishedAt": "2024-03-05T06:00:00Z",
+            "content": "L'aspirateur-balai Dyson Gen5 Detect est le premier modèle du britannique muni du nouveau moteur Hyperdimium. Il conserve par ailleurs ce qui a fait le succès de la marque au fil du temps : une filtr… [+1088 chars]"
+        },
+    
+        {
+        
+            "source": {
+                "id": null,
+                "name": "Les Numériques"
+            },
+            "author": "Nassim Chentouf",
+            "title": "Actualité : Google n'affiche plus Maps dans ses résultats, voici pourquoi",
+            "description": "Suite au Digital Markets Act de l’Europe, Maps n’apparaît plus par défaut lorsque vous cherchez un lieu sur Google. Si vous voulez que le service s’affiche de nouveau, il est tout à fait possible de le réactiver. Voici comment s’y prendre.",
+            "url": "https://www.lesnumeriques.com/appli-logiciel/google-n-affiche-plus-maps-dans-ses-resultats-voici-pourquoi-n219127.html",
+            "urlToImage": "https://cdn.lesnumeriques.com/optim/news/21/219127/e317fc95-google-n-affiche-plus-maps-dans-ses-resultats-voici-pourquoi__1200_630__0-115-2000-1165.jpg",
+            "publishedAt": "2024-03-05T08:06:00Z",
+            "content": "Vous avez peut-être remarqué que Maps ne saffiche plus lorsque vous cherchez un lieu sur Google. Il sagit des premiers effets du Digital Markets Act (DMA) de lUnion européenne qui entre en vigueur dè… [+2227 chars]"
+        },
+    
+        {
+        
+            "source": {
+                "id": null,
+                "name": "Techmeme.com"
+            },
+            "author": null,
+            "title": "As Alphabet, Amazon, Apple, ByteDance, Meta, and Microsoft comply with the EU DMA ahead of March 7, experts are skeptical the rules will have the desired effect (Financial Times)",
+            "description": "Financial Times:\nAs Alphabet, Amazon, Apple, ByteDance, Meta, and Microsoft comply with the EU DMA ahead of March 7, experts are skeptical the rules will have the desired effect  —  This week is the deadline for large online platforms to comply with new EU re…",
+            "url": "https://www.techmeme.com/240305/p7",
+            "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fwww.ft.com%2F__origami%2Fservice%2Fimage%2Fv2%2Fimages%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252F211a31a3-b52a-490f-98a6-b224cf4b3e2b.jpg%3Fsource%3Dnext-article%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1?source=next-opengraph&fit=scale-down&width=900",
+            "publishedAt": "2024-03-05T11:45:14Z",
+            "content": "About This Page\r\nThis is a Techmeme archive page.\r\nIt shows how the site appeared at 6:45 AM ET, March 5, 2024.\r\nThe most current version of the site as always is available at our home page.\r\nTo view… [+67 chars]"
+        },
+    
+        {
+        
+            "source": {
+                "id": null,
+                "name": "Playpcesor.com"
+            },
+            "author": "Esor Huang",
+            "title": "讓 AI 成為閱讀助手， ChatGPT 摘要、翻譯與學習筆記提示語分享",
+            "description": "利用 ChatGPT 這類 AI 工具來快速進行文章摘要、學習筆記，相信是不少人日常最普遍的應用之一。也有許許多多的 AI 摘要工具，來協助解決這類需求。我自己在日常的閱讀新資訊流程中，也慢慢累積出一套慣用的摘要筆記流程，以及反覆使用的 ChatGPT 摘要提示語，今天這篇文章...",
+            "url": "https://www.playpcesor.com/2024/03/ai-chatgpt.html",
+            "urlToImage": "https://blogger.googleusercontent.com/img/a/AVvXsEjlseNeqEmYSBLIIu2ZdJ4Qt7qvQyBSLOixGWt-eXZG44KO0qoTZL7gTUPR4SxBVPidseYYzn4XJXvamT36ztgWk88fvDFUMh2t4l4BKFS_2HpUycGneB6v0r2UMxbce8CoDGaqEDQheTIjxI6QIwihIl1I4-XXh1G71aHtM_w7dVAYB67Tl-AX5g=w1200-h630-p-k-no-nu",
+            "publishedAt": "2024-03-05T05:03:00Z",
+            "content": "利用 ChatGPT 這類 AI 工具來快速進行文章摘要、學習筆記，相信是不少人日常最普遍的應用之一。也有許許多多的 AI 摘要工具，來協助解決這類需求。我自己在日常的閱讀新資訊流程中，也慢慢累積出一套慣用的摘要筆記流程，以及反覆使用的 ChatGPT 摘要提示語，今天這篇文章就來跟大家分享。\r\n首先，有幾個現階段我自己利用 AI 來輔助閱讀時，會謹守的原則與方法：\r\n<ul><li>自己深入的… [+4903 chars]"
+        },
+    
+        {
+        
+            "source": {
+                "id": null,
+                "name": "Caschys Blog"
+            },
+            "author": "caschy",
+            "title": "Windows 10 liegt in der Gunst der Gamer noch vorn, macOS spielt bei Steam keine große Rolle",
+            "description": "Neuer Monat, neues Glück. Regelmäßig werfen wir einen Blick auf die Statistiken diverser Dienste. Logisch: Man darf nicht vergessen, dass sich monatlich nicht so viel bewegt, dennoch kann man Tendenzen erkennen. Windows 11 wird vermutlich bald einen Zugewinn …",
+            "url": "https://stadt-bremerhaven.de/windows-10-liegt-in-der-gunst-der-gamer-noch-vorn-macos-spielt-bei-steam-keine-grosse-rolle/",
+            "urlToImage": "https://stadt-bremerhaven.de/wp-content/uploads/2019/06/statistiken.jpg",
+            "publishedAt": "2024-03-05T12:00:09Z",
+            "content": "Neuer Monat, neues Glück. Regelmäßig werfen wir einen Blick auf die Statistiken diverser Dienste. Logisch: Man darf nicht vergessen, dass sich monatlich nicht so viel bewegt, dennoch kann man Tendenz… [+1820 chars]"
+        },
+    
+        {
+        
+            "source": {
+                "id": null,
+                "name": "Caschys Blog"
+            },
+            "author": "Olli",
+            "title": "HomePod wird mit Software-Version 17.4 automatisch den Standard-Streaming-Service auswählen",
+            "description": "Nutzer eines HomePod haben schon länger die Möglichkeit, in der Home-App einen anderen Streaming-Dienst als Apple Music zum Abspielen von Musik festzulegen, sollte der Dienst die HomePod-Integration unterstützen. Das ist beispielsweise bei YouTube Music der F…",
+            "url": "https://stadt-bremerhaven.de/homepod-wird-mit-software-version-17-4-automatisch-den-standard-streaming-service-auswaehlen/",
+            "urlToImage": "https://stadt-bremerhaven.de/wp-content/uploads/2023/12/Apple-HomePod-Curved.jpg",
+            "publishedAt": "2024-03-05T09:30:57Z",
+            "content": "Nutzer eines HomePod haben schon länger die Möglichkeit, in der Home-App einen anderen Streaming-Dienst als Apple Music zum Abspielen von Musik festzulegen, sollte der Dienst die HomePod-Integration … [+1001 chars]"
+        },
+    
+        {
+        
+            "source": {
+                "id": null,
+                "name": "Caschys Blog"
+            },
+            "author": "caschy",
+            "title": "TIDAL: Musikstreamingdienst ändert seine Abos",
+            "description": "Der Musikstreamingdienst TIDAL ändert weltweit seine Preise, bzw. seine Abos. Ab dem 10. April 2024 können Abonnenten alle aktuellen Streaming-Funktionen, einschließlich aller Premium-Audioformate, über ein einziges Abo-Modell namens TIDAL nutzen. Gegen eine …",
+            "url": "https://stadt-bremerhaven.de/tidal-musikstreamingdienst-aendert-seine-abos/",
+            "urlToImage": "https://stadt-bremerhaven.de/wp-content/uploads/2023/04/tidal_logo.jpg",
+            "publishedAt": "2024-03-05T07:00:14Z",
+            "content": "Der Musikstreamingdienst TIDAL ändert weltweit seine Preise, bzw. seine Abos. Ab dem 10. April 2024 können Abonnenten alle aktuellen Streaming-Funktionen, einschließlich aller Premium-Audioformate, ü… [+1414 chars]"
+        },
+    
+        {
+        
+            "source": {
+                "id": null,
+                "name": "Frandroid"
+            },
+            "author": "Ulrich Rozier",
+            "title": "Apple dévoile une mise à jour surprise pour le MacBook Pro M3 : la prise en charge de deux écrans externes 6K à 60 Hz",
+            "description": "Lors de la présentation du nouveau MacBook Air M3, Apple avait une surprise de taille pour les propriétaires de MacBook Pro M3.",
+            "url": "https://www.frandroid.com/marques/apple/1956038_apple-devoile-une-mise-a-jour-surprise-pour-le-macbook-pro-m3-la-prise-en-charge-de-deux-ecrans-externes-6k-a-60-hz",
+            "urlToImage": "https://images.frandroid.com/wp-content/uploads/2023/11/macbook-pro-m3-frandroid-zdnet2.jpg",
+            "publishedAt": "2024-03-05T06:58:48Z",
+            "content": "Lors de la présentation du nouveau MacBook Air M3, Apple avait une surprise de taille pour les propriétaires de MacBook Pro M3.\r\nMacBook Pro M3 // Source : Zdnet\r\nAu-delà des nouveautés du MacBook Ai… [+859 chars]"
+        },
+    
+        {
+        
+            "source": {
+                "id": null,
+                "name": "Frandroid"
+            },
+            "author": "Mélanie Capelli",
+            "title": "L’Apple Watch façon Xiaomi devient encore plus abordable après 50 % de réduction",
+            "description": "Le prix des montres connectées ne convient pas toujours à toutes les bourses. Pour cela, Xiaomi n’hésite pas à concevoir des produits complets avec des prix bas. Et, c'est la Redmi Watch 3 qui voit son prix passer de 149 euros à 75 euros.",
+            "url": "https://www.frandroid.com/bons-plans/1955726_lapple-watch-facon-xiaomi-devient-encore-plus-abordable-apres-50-de-reduction",
+            "urlToImage": "https://images.frandroid.com/wp-content/uploads/2023/03/20230323-164600-resized-watermarked.jpeg",
+            "publishedAt": "2024-03-05T07:16:15Z",
+            "content": "Le prix des montres connectées ne convient pas toujours à toutes les bourses. Pour cela, Xiaomi nhésite pas à concevoir des produits complets avec des prix bas. Et, c'est la Redmi Watch 3 qui voit so… [+3479 chars]"
+        },
+    
+        {
+        
+            "source": {
+                "id": null,
+                "name": "Frandroid"
+            },
+            "author": "Marie Lizak",
+            "title": "La guerre des prix continue : Subaru fait fondre le prix de sa voiture électrique de 11 000 €",
+            "description": "Seulement quelques mois après son lancement en France, le Subaru Solterra voit son tarif chuter de plus de 11 000 euros. Le constructeur japonais souhaite en effet mieux rivaliser avec la Tesla Model Y, alors que la guerre des prix est plus intense que jamais.",
+            "url": "https://www.frandroid.com/survoltes/voitures-electriques/1956074_la-guerre-des-prix-continue-subaru-fait-fondre-le-prix-de-sa-voiture-electrique-de-11-000-e",
+            "urlToImage": "https://images.frandroid.com/wp-content/uploads/2022/04/subaru-solterra.jpeg",
+            "publishedAt": "2024-03-05T11:01:14Z",
+            "content": "Seulement quelques mois après son lancement en France, le Subaru Solterra voit son tarif chuter de plus de 11 000 euros. Le constructeur japonais souhaite en effet mieux rivaliser avec la Tesla Model… [+3704 chars]"
+        },
+    
+        {
+        
+            "source": {
+                "id": "lenta",
+                "name": "Lenta"
+            },
+            "author": "Андрей Ставицкий",
+            "title": "Apple отменила весеннюю презентацию гаджетов",
+            "description": "Корпорация Apple запланировала релиз нескольких новых устройств. Однако весеннюю презентацию, на которой обычно показывают устройства такого типа, отменили — вместо нее компания просто обновит свой сайт и добавит на него новые гаджеты. Информацию подтвердил п…",
+            "url": "https://lenta.ru/news/2024/03/05/spring/",
+            "urlToImage": "https://icdn.lenta.ru/images/2024/03/04/11/20240304110307281/share_df509aa16db240131400e3d8ee92c535.jpg",
+            "publishedAt": "2024-03-05T01:45:20Z",
+            "content": "Apple . Bloomberg.\r\n, . iPad Air iPad Pro. Apple MacBook Air M3 13- 15- .\r\n Apple Pencil Magic Keyboard. , , .\r\n , Apple , MacRumors. , .\r\n Apple (). ."
+        },
+    
+        {
+        
+            "source": {
+                "id": null,
+                "name": "Slickdeals.net"
+            },
+            "author": "persian_mafia",
+            "title": "Bumblebee + Transformers 6-Movie Collection (Digital 4K UHD) $9.99 @ Apple iTunes",
+            "description": "Apple iTunes has Bumblebee + Transformers 6-Film Bundle (Digital 4K UHD) on sale for $9.99.\r\n\r\nThanks to Deal Editor persian_mafia for finding this deal.\r\n\r\nBundle Includes:Bumblebee (Digital 4K U ...",
+            "url": "https://slickdeals.net/f/17333499-bumblebee-transformers-6-movie-collection-digital-4k-uhd-9-99-apple-itunes",
+            "urlToImage": "https://static.slickdealscdn.com/attachment/2/8/9/1/1/15090870.attach",
+            "publishedAt": "2024-03-05T05:40:18Z",
+            "content": "For those interested offer is valid for a limited time. If link isn't working, search for \"Bumblebee + Transformers 6-Movie Collection\" on AppleTV.Link[apple.com]\r\nNote, these films are not (MA), Mov… [+347 chars]"
+        },
+    
+        {
+        
+            "source": {
+                "id": null,
+                "name": "Ifanr.com"
+            },
+            "author": "张明悦",
+            "title": "早报|GPT-4 被全面超越/苹果发布 M3 芯片 MacBook Air/微信可加入钉钉会议",
+            "description": "·苹果被罚款后发长文回击欧盟\n·雷军建议义务教育普及 AI\n·海底捞宣布将推加盟特许经营模式#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。\n爱范儿 |\n原文链接 ·\n查看评论 ·\n新浪微博",
+            "url": "https://www.ifanr.com/1577080",
+            "urlToImage": "https://s3.ifanr.com/images/ep/cover-images/heng_kua_jiao_shi_cover.jpg",
+            "publishedAt": "2024-03-05T02:39:47Z",
+            "content": "M3 MacBook Air\r\n3 4 M3 MacBook Air 13 15 \r\n MacBook Air 18 M1 MacBook Air 1.6 \r\n M3 MacBook Air M3 \r\n Mac Apple Mac M3 16 CPU GPU MacBook Air AI \r\n M3 MacBook Air M2 MacBook Air M3 MacBook Pro M3 Mac… [+1105 chars]"
+        },
+    
+        {
+        
+            "source": {
+                "id": null,
+                "name": "01net.com"
+            },
+            "author": "Mickaël Bazoge",
+            "title": "01net morning : nouveaux MacBook Air et nouvelle amende pour Apple, essai de la BMW iX2, une arme contre le piratage",
+            "description": "Bonjour à tous, voici la matinale de 01net ! Retrouvez toute l’actu à connaitre pour démarrer la journée du bon pied.",
+            "url": "https://www.01net.com/actualites/01net-morning-nouveaux-macbook-air-et-nouvelle-amende-pour-apple-essai-de-la-bmw-ix2-une-arme-contre-le-piratage.html",
+            "urlToImage": "https://www.01net.com/app/uploads/2024/03/01net-Morning-1.jpg",
+            "publishedAt": "2024-03-05T05:00:24Z",
+            "content": "Bonjour à tous, voici la matinale de 01net ! Retrouvez toute lactu à connaitre pour démarrer la journée du bon pied.Coup de bambou pour Apple. La Commission européenne a pris sa décision concernant l… [+1414 chars]"
+        },
+    
+        {
+        
+            "source": {
+                "id": null,
+                "name": "Oreilly.com"
+            },
+            "author": "Mike Loukides",
+            "title": "Radar Trends to Watch: March 2024",
+            "description": "January was a dull month, at least in my opinion. Maybe everyone was recovering from their holidays. February was a short month, but it was far from dull. And I’m not even counting the first shipments of Apple Vision. OpenAI has demoed an impressive text-to-v…",
+            "url": "https://www.oreilly.com/radar/radar-trends-to-watch-march-2024/",
+            "urlToImage": "https://www.oreilly.com/radar/wp-content/uploads/sites/3/2023/06/radar-1400x950-5.png",
+            "publishedAt": "2024-03-05T11:20:10Z",
+            "content": "January was a dull month, at least in my opinion. Maybe everyone was recovering from their holidays. February was a short month, but it was far from dull. And Im not even counting the first shipments… [+13794 chars]"
+        },
+    
+        {
+        
+            "source": {
+                "id": null,
+                "name": "Quartz India"
+            },
+            "author": "Britney Nguyen",
+            "title": "iPhone sales plummeted in China as Apple competes with homegrown Huawei",
+            "description": "Apple’s rough stretch in the U.S. and European Union is extending to China, where iPhone sales fell 24% year-over-year in the first six weeks of 2024, according to a new report. Read more...",
+            "url": "https://qz.com/apple-iphone-sales-china-huawei-vivo-1851308057",
+            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/78e0d7e9fbf95653055dc1d7d3125966.jpg",
+            "publishedAt": "2024-03-05T13:19:00Z",
+            "content": "Apples rough stretch in the U.S. and European Union is extending to China, where iPhone sales fell 24% year-over-year in the first six weeks of 2024, according to a new report. \r\nCompetition with Chi… [+2004 chars]"
+        },
+    
+        {
+        
+            "source": {
+                "id": null,
+                "name": "Quartz India"
+            },
+            "author": "Laura Bratton",
+            "title": "An Apple Vision Pro rival has been in the VR game longer and gone a lot further",
+            "description": "This story is part of our Chief Innovation Officer Forecast series with Gizmodo, a business report from the front lines of the future.Read more...",
+            "url": "https://qz.com/apple-vision-pro-htc-vive-vr-ai-1851302453",
+            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/7059dcf725ae2fdf28fb7de6bab05c13.jpg",
+            "publishedAt": "2024-03-05T10:00:00Z",
+            "content": "This story is part of our Chief Innovation Officer Forecast series with Gizmodo, a business report from the front lines of the future.\r\nMany have claimed that the metaverse is dead since Meta failed … [+5485 chars]"
+        },
+    
+        {
+        
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": null,
+            "title": "Marketmind: Apple angst, Tesla tanks, Bitcoin balks",
+            "description": null,
+            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_16ee465c-021e-4306-a5d0-7acc4e311815",
+            "urlToImage": null,
+            "publishedAt": "2024-03-05T11:11:14Z",
+            "content": "Si vous cliquez sur « Tout accepter », nos partenaires (y compris 241 qui font partie du Cadre de transparence et de consentement dIAB) et nous utiliserons également des témoins et vos données person… [+982 chars]"
+        },
+    
+        {
+        
+            "source": {
+                "id": null,
+                "name": "GSMArena.com"
+            },
+            "author": "Michail",
+            "title": "Apple announces new MagSafe silicone cases and Apple Watch band colors",
+            "description": "Alongside the new M3 MacBook Air laptops, Apple announced a set of new color options for its Silicone MagSafe iPhone case and Apple Watch bands. The silicone case with MagSafe is now available in Soft Mint, Sunshine, Light Blue, and Pink for iPhones and are a…",
+            "url": "https://www.gsmarena.com/apple_announces_new_magsafe_silicone_cases_and_apple_watch_band_colors-news-61864.php",
+            "urlToImage": "https://fdn.gsmarena.com/imgroot/news/24/03/apple-new-magsafe-cases-apple-watch-bands/-952x498w6/gsmarena_000.jpg",
+            "publishedAt": "2024-03-05T08:45:01Z",
+            "content": "Alongside the new M3 MacBook Air laptops, Apple announced a set of new color options for its Silicone MagSafe iPhone case and Apple Watch bands. The silicone case with MagSafe is now available in Sof… [+1008 chars]"
+        },
+    
+        {
+        
+            "source": {
+                "id": null,
+                "name": "GSMArena.com"
+            },
+            "author": "Vlad",
+            "title": "European Commission fines Apple €1.8 billion for abusing its position in music streaming",
+            "description": "Today the European Commission (EC) has fined Apple a whopping €1.8 billion for abusing its dominant position in the market for the distribution of music streaming apps to iOS and iPadOS users through its App Store. The Commission found that \"Apple applied res…",
+            "url": "https://www.gsmarena.com/european_commission_fines_apple_18_billion_for_abusing_its_position_in_music_streaming-news-61857.php",
+            "urlToImage": "https://fdn.gsmarena.com/imgroot/news/24/03/apple-ec-fine-streaming-music-anti-steering/-952x498w6/gsmarena_000.jpg",
+            "publishedAt": "2024-03-05T01:58:01Z",
+            "content": "Today the European Commission (EC) has fined Apple a whopping 1.8 billion for abusing its dominant position in the market for the distribution of music streaming apps to iOS and iPadOS users through … [+3468 chars]"
+        },
+    
+        {
+        
+            "source": {
+                "id": null,
+                "name": "GSMArena.com"
+            },
+            "author": "Yordan",
+            "title": "Canalys: Mediatek ends 2023 as the most dominant chipset provider",
+            "description": "Canalys posted a report about the smartphone market in Q4 2023, with a breakdown by processor vendor. The analysis revealed Mediatek powered more devices than any chip maker in the final quarter of last year, with a 21% increase YoY.\n\nIn terms of revenue, it …",
+            "url": "https://www.gsmarena.com/canalys_mediatek_ends_2023_as_the_most_dominant_chipset_provider-news-61863.php",
+            "urlToImage": "https://fdn.gsmarena.com/imgroot/news/22/11/mediatek-t800-t520-1000/-952x498w6/gsmarena_000.jpg",
+            "publishedAt": "2024-03-05T11:27:01Z",
+            "content": "Canalys posted a report about the smartphone market in Q4 2023, with a breakdown by processor vendor. The analysis revealed Mediatek powered more devices than any chip maker in the final quarter of l… [+1290 chars]"
+        },
+    
+        {
+        
+            "source": {
+                "id": null,
+                "name": "01net.com"
+            },
+            "author": "Mickaël Bazoge",
+            "title": "Sur iOS, la boutique alternative Mobivention veut se lancer dès le 7 mars",
+            "description": "À partir de ce jeudi, les boutiques alternatives à l'App Store auront droit de cité sur l'iPhone. Il ne faut pas s'attendre à un tsunami au vu des critères draconiens imposés par Apple, néanmoins plusieurs développeurs vont profiter de cette opportunité à l'i…",
+            "url": "https://www.01net.com/actualites/sur-ios-la-boutique-alternative-mobivention-veut-se-lancer-des-le-7-mars.html",
+            "urlToImage": "https://www.01net.com/app/uploads/2023/07/app-store-plainte-UK.jpg",
+            "publishedAt": "2024-03-05T07:00:54Z",
+            "content": "À partir de ce jeudi, les boutiques alternatives à l’App Store auront droit de cité sur l’iPhone. Il ne faut pas s’attendre à un tsunami au vu des critères draconiens imposés par Apple, néanmoins plu… [+2357 chars]"
+        },
+    
+        {
+        
+            "source": {
+                "id": null,
+                "name": "Smartworld.it"
+            },
+            "author": "Giuseppe Tripodi",
+            "title": "iOS 17.4 stravolge iPhone: tutto quello che cambia in Europa",
+            "description": "A brevissimo arriverà su tutti gli iPhone l'aggiornamento a iOS 17.4: nonostante sia ufficialmente una \"minor realease\", per molti versi...\r\nL'articolo iOS 17.4 stravolge iPhone: tutto quello che cambia in Europa sembra essere il primo su Smartworld.",
+            "url": "https://www.smartworld.it/news/ios-17-4-cosa-cambia-europa.html",
+            "urlToImage": "https://www.smartworld.it/images/2024/03/05/ios-17.4-europa_1200x675.png",
+            "publishedAt": "2024-03-05T13:06:00Z",
+            "content": "A brevissimo arriverà su tutti gli iPhone l'aggiornamento a iOS 17.4: nonostante sia ufficialmente una \"minor realease\", per molti versi è probabilmente il più importante aggiornamento di sempre per … [+5153 chars]"
+        },
+    
+        {
+        
+            "source": {
+                "id": null,
+                "name": "Smartworld.it"
+            },
+            "author": "Alessandro Nodari",
+            "title": "Aggiungete un pizzico dei nuovi MacBook Air al vostro computer con gli sfondi ufficiali",
+            "description": "Ieri Apple non ha solo lanciato i nuovi MacBook Air con chip M3, ma ha anche abbassato di 100 euro...\r\nL'articolo Aggiungete un pizzico dei nuovi MacBook Air al vostro computer con gli sfondi ufficiali sembra essere il primo su Smartworld.",
+            "url": "https://www.smartworld.it/news/sfondi-macbook-air-m3.html",
+            "urlToImage": "https://www.smartworld.it/images/2024/03/04/macbook-air-m3---10_1200x675.jpg",
+            "publishedAt": "2024-03-05T09:41:00Z",
+            "content": "Ieri Apple non ha solo lanciato i nuovi MacBook Air con chip M3, ma ha anche abbassato di 100 euro il prezzo del modello base di MacBook Air con chip M2, mantenuto in catalogo e ora più allettante ch… [+2132 chars]"
+        },
+    
+        {
+        
+            "source": {
+                "id": null,
+                "name": "Smartworld.it"
+            },
+            "author": "Alessandro Nodari",
+            "title": "Vediamo come vanno i nuovi MacBook Air con chip M3: primi benchmark in rete",
+            "description": "Alla presentazione di ieri, Apple ha dichiarato che i nuovi MacBook Air con chip M3 presentano un incremento di velocità...\r\nL'articolo Vediamo come vanno i nuovi MacBook Air con chip M3: primi benchmark in rete sembra essere il primo su Smartworld.",
+            "url": "https://www.smartworld.it/news/macbook-air-m3-benchmark.html",
+            "urlToImage": "https://www.smartworld.it/images/2024/03/04/macbook-air-m3---9_1200x675.jpg",
+            "publishedAt": "2024-03-05T13:25:00Z",
+            "content": "Alla presentazione di ieri, Apple ha dichiarato che i nuovi MacBook Air con chip M3 presentano un incremento di velocità fino al 60% in più rispetto ai modelli con chip M1, e di 13 volte rispetto a q… [+1844 chars]"
+        },
+    
+        {
+        
+            "source": {
+                "id": null,
+                "name": "Smartworld.it"
+            },
+            "author": "Giuseppe Tripodi",
+            "title": "Il primo App Store alternativo per iPhone è l'opposto dell'App Store",
+            "description": "Una delle novità più importanti dovute al Digital Markets Act dell'Unione Europea sarà la possibilità di installare marketplace alternativi su...\r\nL'articolo Il primo App Store alternativo per iPhone è l'opposto dell'App Store sembra essere il primo su Smartw…",
+            "url": "https://www.smartworld.it/news/setapp-app-store-alternativo-macpaw.html",
+            "urlToImage": "https://www.smartworld.it/images/2024/03/05/macpaw-app-store_1200x675.png",
+            "publishedAt": "2024-03-05T11:11:00Z",
+            "content": "Una delle novità più importanti dovute al Digital Markets Act dell'Unione Europea sarà la possibilità di installare marketplace alternativi su iPhone: la novità arriverà con iOS 17.4, insieme alla po… [+1429 chars]"
+        },
+    
+        {
+        
+            "source": {
+                "id": "espn",
+                "name": "ESPN"
+            },
+            "author": "Rich Cimini",
+            "title": "With roughly $20M in cap space, Jets have decisions to make on pending free agents",
+            "description": "The Jets hope to make most of $20 million in cap room with the possibility of Bryce Huff, Mekhi Becton and Jordan Whitehead hitting the market.",
+            "url": "https://www.espn.com/nfl/story/_/id/39624166/new-york-jets-20m-cap-space-becton-whitehead-huff",
+            "urlToImage": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F0229%2Fr1298123_1296x729_16%2D9.jpg",
+            "publishedAt": "2024-03-05T12:31:47Z",
+            "content": "FLORHAM PARK, N.J. -- Perhaps more than any executive in the NFL, New York Jets general manager Joe Douglas is under pressure to win now. Not that he needed a reminder, but the message was amplified … [+7214 chars]"
+        },
+    
+        {
+        
+            "source": {
+                "id": null,
+                "name": "Creative Bloq"
+            },
+            "author": "Daniel John",
+            "title": "Leaked Apple iPhone SE 4 design looks like mashup of iPhones past",
+            "description": "But fans of the iPhone mini might be disappointed.",
+            "url": "https://www.creativebloq.com/news/iphone-se-4-cad",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/uPNHaVANpwxgkjBo3ug6Nb-1200-80.jpg",
+            "publishedAt": "2024-03-05T09:04:21Z",
+            "content": "Like the PS5 Pro and Nintendo Switch 2, the iPhone SE 4 is one of tech's most on-again-off-again rumours of the last few years. For the last few months the budget iPhone was said to be dead in the wa… [+1485 chars]"
+        },
+    
+        {
+        
+            "source": {
+                "id": null,
+                "name": "La Vanguardia"
+            },
+            "author": "Fran Besora",
+            "title": "Apple hace una clara referencia a la IA y eso solo puede significar que se avecinan grandes cosas",
+            "description": "Apple ha lanzado recientemente sus nuevos MacBook Air de 13 y 15 pulgadas con procesador M3, y aunque es un modelo nuevo bastante interesante por sus especificaciones, también lo es una referencia que ha hecho la compañía a la Inteligencia Artificial en su no…",
+            "url": "https://www.lavanguardia.com/andro4all/apple/apple-hace-una-clara-referencia-a-la-ia-y-eso-solo-puede-significar-que-se-avecinan-grandes-cosas",
+            "urlToImage": "https://www.lavanguardia.com/andro4all/hero/2024/03/apple-gpt-portada.jpg?width=1200",
+            "publishedAt": "2024-03-05T08:28:16Z",
+            "content": "Apple hará un anuncio relacionado con la IA en las próximas semanas\r\nApple ha lanzado recientemente sus nuevos MacBook Air de 13 y 15 pulgadas con procesador M3, y aunque es un modelo nuevo bastante … [+2041 chars]"
+        },
+    
+        {
+        
+            "source": {
+                "id": null,
+                "name": "La Vanguardia"
+            },
+            "author": "Fran Besora",
+            "title": "El MacBook Air M1 es historia: Apple lo deja de vender tras lanzar los nuevos modelos con M3",
+            "description": "Tras el lanzamiento de los nuevos MacBook Air de 13 y 15 pulgadas con procesador M3, la compañía de la manzana mordida ha ajustado un poco la gama para adecuarla a los nuevos lanzamientos y eso se traduce en que ha discontinuado de forma oficial el MacBook Ai…",
+            "url": "https://www.lavanguardia.com/andro4all/apple/el-macbook-air-m1-es-historia-apple-lo-deja-de-vender-tras-lanzar-los-nuevos-modelos-con-m3",
+            "urlToImage": "https://www.lavanguardia.com/andro4all/hero/2024/03/macbook-air-con-chip-m1-ya-es-un-producto-discontinuado.jpg?width=1200",
+            "publishedAt": "2024-03-05T07:36:20Z",
+            "content": "El MacBook Air con M1 se deja de vender de forma oficial\r\nTras el lanzamiento de los nuevos MacBook Air de 13 y 15 pulgadas con procesador M3, la compañía de la manzana mordida ha ajustado un poco la… [+3127 chars]"
+        },
+    
+        {
+        
+            "source": {
+                "id": null,
+                "name": "La Vanguardia"
+            },
+            "author": "Fran Besora",
+            "title": "Gracias a esta oferta de Amazon, el iPad mini de sexta generación podría ser tuyo por menos de 600 euros",
+            "description": "Aunque Apple lanzó el iPad mini de sexta generación en 2021, lo cierto es que sigue siendo una gran opción en este 2024. Y es que en su pequeño tamaño de 8,3 pulgadas se incluyen grandes características como Touch ID en el botón de encendido, USB-C, un potent…",
+            "url": "https://www.lavanguardia.com/andro4all/ofertas/gracias-a-esta-oferta-de-amazon-el-ipad-mini-de-sexta-generacion-podria-ser-tuyo-por-menos-de-600-euros",
+            "urlToImage": "https://www.lavanguardia.com/andro4all/hero/2024/03/ipad-mini-por-menos-de-600-euros.jpg?width=1200",
+            "publishedAt": "2024-03-05T13:30:50Z",
+            "content": "El iPad mini de sexta generación tiene una gran oferta en Amazon\r\nAunque Apple lanzó el iPad mini de sexta generación en 2021, lo cierto es que sigue siendo una gran opción en este 2024. Y es que en … [+3573 chars]"
+        },
+    
+        {
+        
+            "source": {
+                "id": null,
+                "name": "La Vanguardia"
+            },
+            "author": "Pablo Hernando Illán",
+            "title": "Reunión en la Moncloa con los líderes tecnológicos para abordar la protección de menores en Internet",
+            "description": "Internet no es un lugar seguro para los adolescentes españoles. El precoz acceso a la pornografía y las conductas adictivas en redes sociales preocupan al Ejecutivo de Pedro Sánchez, que se ha reunido con los principales líderes del sector tecnológico para ab…",
+            "url": "https://www.lavanguardia.com/andro4all/operadoras/reunion-en-la-moncloa-con-los-lideres-tecnologicos-para-abordar-la-proteccion-de-menores-en-internet",
+            "urlToImage": "https://www.lavanguardia.com/andro4all/hero/2024/03/reunion-en-la-moncloa-con-los-lideres-tecnologicos-para-abordar-la-proteccion-de-menores-en-internet.jpg?width=1200",
+            "publishedAt": "2024-03-05T09:39:59Z",
+            "content": "El Ejecutivo con los líderes convocados (foto: la Moncloa)\r\nInternet no es un lugar seguro para los adolescentes españoles. El precoz acceso a la pornografía y las conductas adictivas en redes social… [+2509 chars]"
+        },
+    
+        {
+        
+            "source": {
+                "id": null,
+                "name": "La Vanguardia"
+            },
+            "author": "Fran Pérez",
+            "title": "Howl, un juego de estrategia por turnos, ya tiene fecha de llegada a móviles Android e iOS",
+            "description": "Cada vez es más común que videojuegos que ya se han lanzado en consolas y PC acaben llegando a móviles tarde o temprano, incluso podemos ver como grandes títulos hacen lo propio, como los ya estrenados en los iPhone 15 Pro, es decir, Death Stranding y los dos…",
+            "url": "https://www.lavanguardia.com/andro4all/juegos/howl-un-juego-de-estrategia-por-turnos-ya-tiene-fecha-de-llegada-a-moviles-android-e-ios",
+            "urlToImage": "https://www.lavanguardia.com/andro4all/hero/2024/03/howl.jpg?width=1200",
+            "publishedAt": "2024-03-05T11:40:12Z",
+            "content": "Howl llegará a móviles Android e iOS\r\nCada vez es más común que videojuegos que ya se han lanzado en consolas y PC acaben llegando a móviles tarde o temprano, incluso podemos ver como grandes títulos… [+3159 chars]"
+        },
+    
+        {
+        
+            "source": {
+                "id": null,
+                "name": "Clubic"
+            },
+            "author": "Corentin Béchade",
+            "title": "Avec ses MacBook Air M3, Apple vous permet enfin d’utiliser plusieurs écrans externes",
+            "description": "Tout fraîchement annoncée, les MacBook Air M3 ne profitent pas seulement du dernier processeur maison d’Apple, ils permettent aussi d’enfin exploiter correctement les possibilités du double écran.",
+            "url": "https://www.clubic.com/actualite-520657-avec-ses-macbook-air-m3-apple-vous-permet-enfin-d-utiliser-plusieurs-ecrans-externes.html",
+            "urlToImage": "https://pic.clubic.com/v1/images/2195485/raw",
+            "publishedAt": "2024-03-05T09:22:00Z",
+            "content": "Tout fraîchement annoncée, les MacBook Air M3 ne profitent pas seulement du dernier processeur maison dApple, ils permettent aussi denfin exploiter correctement les possibilités du double écran.\r\nTou… [+1926 chars]"
+        },
+    
+        {
+        
+            "source": {
+                "id": null,
+                "name": "Impress.co.jp"
+            },
+            "author": null,
+            "title": "欧州委員会、音楽ストリーミング独禁法違反でAppleに約2,938億円の制裁金。Appleは「Spotifyが最大の受益者」と非難",
+            "description": "欧州委員会(European Commission:EC)は3月4日、AppleがiPhoneおよびiPadユーザーに音楽ストリーミングアプリを配信するという支配的地位を乱用したとして、18億ユーロ(約2,938億円)もの制裁金を課したと発表した。",
+            "url": "https://pc.watch.impress.co.jp/docs/news/1573919.html",
+            "urlToImage": "https://pc.watch.impress.co.jp/img/pcw/list/1573/919/1.jpg",
+            "publishedAt": "2024-03-05T08:23:35Z",
+            "content": "ECAppleSpotifySpotify56%2App StoreSpotifyAppleWeb \r\n SpotifyApple1,190//AppleSiriCarPlayApple WatchAirPlay25API60421 \r\n SpotifySpotifyAppleSpotifyApp StoreEC \r\n AppleEC"
+        },
+    
+        {
+        
+            "source": {
+                "id": null,
+                "name": "Deadline"
+            },
+            "author": "Denise Petski",
+            "title": "‘Doc’: Omar Metwally, Amirah Van & Scott Wolf Among 6 Cast In Fox Medical Drama Series",
+            "description": "EXCLUSIVE: Fox has assembled the cast for its new medical drama series Doc around the previously cast lead Molly Parker. Omar Metwally, Amirah Vann, Jon Ecker and Anya Banerjee are set as series regulars, and Scott Wolf and Patrick Walker will recur in the sh…",
+            "url": "http://deadline.com/2024/03/doc-fox-drama-series-cast-1235844871/",
+            "urlToImage": "https://deadline.com/wp-content/uploads/2024/03/Omar-Metwally-Amirah-Vann-Scott-Wolf.jpg?w=1024",
+            "publishedAt": "2024-03-05T00:00:00Z",
+            "content": "EXCLUSIVE: Fox has assembled the cast for its new medical drama series Docaround the previously cast lead Molly Parker.Omar Metwally, Amirah Vann, Jon Ecker and Anya Banerjee are set as series regula… [+5720 chars]"
+        },
+    
+        {
+        
+            "source": {
+                "id": null,
+                "name": "Deadline"
+            },
+            "author": "Max Goldbart",
+            "title": "STV Boss Simon Pitts Exiting After Six Years",
+            "description": "STV boss Simon Pitts is exiting the business after six years. Pitts has led the Scottish broadcaster-producer since 2018, during what has been a tricky period beset by the Covid-19 pandemic and ad recession. He has, nonetheless, delivered growth and seen a bo…",
+            "url": "http://deadline.com/2024/03/stv-boss-simon-pitts-exiting-six-years-1235845823/",
+            "urlToImage": "https://deadline.com/wp-content/uploads/2023/11/Criminal_Record_Photo_010301.jpg?w=1024",
+            "publishedAt": "2024-03-05T08:41:23Z",
+            "content": "STV boss Simon Pitts is exiting the business after six years. \r\nPitts has led the Scottish broadcaster-producer since 2018, during what has been a tricky period beset by the Covid-19 pandemic and ad … [+2419 chars]"
+        },
+    
+        {
+        
+            "source": {
+                "id": null,
+                "name": "Deadline"
+            },
+            "author": "Baz Bamigboye",
+            "title": "Breaking Baz: Vanessa Kirby Reunites With ‘The Crown’s Benjamin Caron For Noir-ish Drama ‘The Night Always Comes’ Ahead Of Starring In ‘Fantastic 4’ Reboot",
+            "description": "EXCLUSIVE: Napoleon star Vanessa Kirby will reunite with The Crown’s Benjamin Caron on a movie based on Willy Vlautin’s 2021 novel The Night Always Comes, about a working-class woman in the Pacific Northwest who embarks on a 24-hour quest to call in old debts…",
+            "url": "http://deadline.com/2024/03/vanessa-kirby-cast-the-night-always-comes-benjamin-caron-netflix-1235845663/",
+            "urlToImage": "https://deadline.com/wp-content/uploads/2024/03/Breaking-Baz-Vanessa-Kirby.jpg?w=1024",
+            "publishedAt": "2024-03-05T12:00:46Z",
+            "content": "EXCLUSIVE: Napoleon star Vanessa Kirby will reunite with The Crown’s Benjamin Caron on a movie based on Willy Vlautin’s 2021 novel The Night Always Comes, about a working-class woman in the Pacific N… [+2951 chars]"
+        },
+    
+        {
+        
+            "source": {
+                "id": null,
+                "name": "Idownloadblog.com"
+            },
+            "author": "Anthony Bouchard",
+            "title": "Belkin’s latest product is a Continuity Camera-based iPhone mount for your Apple TV 4K",
+            "description": "Belkin has launched a new MagSafe-based iPhone mount that works with Continuity Camera and the Apple TV 4K.",
+            "url": "https://www.idownloadblog.com/2024/03/04/belkin-continuity-camera-iphone-mount-for-apple-tv-4k/",
+            "urlToImage": "https://media.idownloadblog.com/wp-content/uploads/2024/03/Belkin-iPhone-Mount-with-MagSafe-for-Apple-TV-4K.jpeg",
+            "publishedAt": "2024-03-05T00:36:52Z",
+            "content": "The team over at Belkin on Monday launched a new Continuity Camera-based accessory for the Apple TV 4K called the iPhone Mount with MagSafe for Apple TV 4K.\r\nThis unique product takes advantage of th… [+1788 chars]"
+        }
+    ]
+
+}
