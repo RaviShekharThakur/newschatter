@@ -1,10 +1,12 @@
 'use client';
 import { Button, Card } from 'flowbite-react';
 import React, { Component } from 'react'
+import { Badge } from 'flowbite-react';
+import { HiCheck, HiClock } from 'react-icons/hi';
 
 export default class NewsItem extends Component {
     render() {
-    let {title, description, imageurl, newsurl} = this.props;
+    let {title, description, imageurl, newsurl, author, date, source} = this.props;
         return (
             <>
             <Card
@@ -18,6 +20,10 @@ export default class NewsItem extends Component {
                 <p className="font-normal text-gray-700 dark:text-gray-400">
                     {description}
                 </p>
+                <Badge color="purple" size="sm">
+                    {source}
+                </Badge>
+                <Badge icon={HiCheck}>by {!author?"unknown" : author} on {new Date(date).toGMTString()}</Badge>
                 <a href={newsurl} target="_blank" rel="noopener noreferrer">
                     <Button>
                     Read more
@@ -30,6 +36,7 @@ export default class NewsItem extends Component {
                     </svg>
                     </Button>
                 </a>
+                
             </Card>
         </>
         )

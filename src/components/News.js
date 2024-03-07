@@ -69,7 +69,7 @@ export default class News extends Component {
         <div className="container mx-auto p-4">
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4">
             {!this.state.loading && this.state.articles.map((element)=>{
-              return <NewsItem key={element.url} title= {element.title} description= {element.description} imageurl= {element.urlToImage} newsurl= {element.url}/>
+              return <NewsItem key={element.url} title= {element.title} description= {element.description} imageurl= {element.urlToImage} newsurl= {element.url} author= {element.author} date= {element.publishedAt} source= {element.source.name}/>
             })}
           </div>
         </div>
