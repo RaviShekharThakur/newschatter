@@ -26,8 +26,9 @@ export default class News extends Component {
       page: 1
     }
   }
-  async componentDidMount(){
-    let url = `https://newsapi.org/v2/top-headlines?country=${this.props.country}&category=${this.props.category}&apiKey=a9ea2413ccbe44ef80c96819ab1857d3&page=1&pageSize=${this.props.pageSize}`
+
+  async updateNewsPage(){
+    let url = `https://newsapi.org/v2/top-headlines?country=${this.props.country}&category=${this.props.category}&apiKey=a9ea2413ccbe44ef80c96819ab1857d3&page=${this.state.page}&pageSize=${this.props.pageSize}`
     this.setState({loading: true})
     let data = await fetch(url);
     let parsedData = await data.json()
@@ -36,31 +37,18 @@ export default class News extends Component {
       totalResults: parsedData.totalResults, 
       loading: false})
   }
+  async componentDidMount(){
+    this.updateNewsPage()
+  }
   handlePrevClick = async() =>{
-    let url = `https://newsapi.org/v2/top-headlines?country=${this.props.country}&category=${this.props.category}&apiKey=a9ea2413ccbe44ef80c96819ab1857d3&page=${this.state.page -1}&pageSize=${this.props.pageSize}`
-    this.setState({loading: true})
-    let data = await fetch(url);
-    let parsedData = await data.json()
-    this.setState({
-      page: this.state.page -1,
-      articles: parsedData.articles,
-      loading: false
-    })
+    this.setState({page: this.state.page -1})
+    this.updateNewsPage()
 
   }
 
   handleNextClick = async() =>{
-    if (!(this.state.page + 1> Math.ceil(this.state.totalResults/this.props.pageSize))){
-      let url = `https://newsapi.org/v2/top-headlines?country=${this.props.country}&category=${this.props.category}&apiKey=a9ea2413ccbe44ef80c96819ab1857d3&page=${this.state.page +1}&pageSize=${this.props.pageSize}`
-      this.setState({loading: true})
-      let data = await fetch(url);
-      let parsedData = await data.json()
-      this.setState({
-        page: this.state.page +1,
-        articles: parsedData.articles,
-        loading: false
-      })
-    }
+    this.setState({page: this.state.page +1})
+    this.updateNewsPage()
   }
   render() {
     return (
