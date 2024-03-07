@@ -2,7 +2,7 @@
 import { Button, Card } from 'flowbite-react';
 import React, { Component } from 'react'
 import { Badge } from 'flowbite-react';
-import { HiCheck, HiClock } from 'react-icons/hi';
+import { HiCheck} from 'react-icons/hi';
 
 export default class NewsItem extends Component {
     render() {

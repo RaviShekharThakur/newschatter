@@ -6,7 +6,7 @@ import News from './components/News';
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 
 export default class App extends Component {
-  pageSize = 6 
+  pageSize = 6
   render() {
     return (
       <div>
