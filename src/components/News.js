@@ -29,7 +29,7 @@ export default class News extends Component {
     super(props)
     this.state = {
       articles: [],
-      loading: false,
+      loading: true,
       page: 1,
       totalResults: 0
     }
@@ -37,16 +37,20 @@ export default class News extends Component {
   }
 
   async updateNewsPage(){
+    this.props.setProgress(10)
     let url = `https://newsapi.org/v2/top-headlines?country=${this.props.country}&category=${this.props.category}&apiKey=a9ea2413ccbe44ef80c96819ab1857d3&page=${this.state.page}&pageSize=${this.props.pageSize}`
     this.setState({loading: true})
     let data = await fetch(url);
+    this.props.setProgress(30)
     let parsedData = await data.json()
+    this.props.setProgress(60)
     this.setState({
       articles: parsedData.articles, 
       totalResults: parsedData.totalResults, 
       loading: false,
       page: 2
     })
+    this.props.setProgress(100)
   }
   async componentDidMount(){
     this.updateNewsPage()
@@ -71,6 +75,7 @@ export default class News extends Component {
       <>
         <div className="container mx-auto p-4">
           <h1 className='text-center text-3xl font-bold mb-20 text-blue-900'>News Chatter- Top {this.capitalizeFirstLetter(this.props.category)} Headlines</h1>
+          {this.state.loading && <Spinner/>}
           <InfiniteScroll
             dataLength={this.state.articles.length}
             next={this.fetchMoreData}
